@@ -1,11 +1,16 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Test Result</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scan Result</title>
 </head>
 <body>
-    <h1>Test Result</h1>
-    <p>{{ tool_output }}</p>
-    <a href="/">Back to Home</a>
+    <h1>Scan Result</h1>
+    <div>
+        {% for line in tool_output_lines %}
+            <p>{{ line }}</p>
+        {% endfor %}
+    </div>
 </body>
 </html>

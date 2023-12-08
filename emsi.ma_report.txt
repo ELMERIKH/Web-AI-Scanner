@@ -1,1675 +1,253 @@
-https://emsi.ma
-https://emsi.ma
-https://emsi.ma
-https://emsi.ma
-https://emsi.ma
-https://emsi.ma
-https://emsi.ma
-[+]Encoded URL: https://emsi.ma/
-[+]Allowed methods: None
-https://emsi.ma
-[+]Encoded URL: https://emsi.ma/
-[+]Allowed methods: None
-https://emsi.ma
-[+]Encoded URL: https://emsi.ma/
-[+]Allowed methods: None
-[+]Links:https://ogp.me/ns#
-[+]Links:http://gmpg.org/xfn/11
-[+]Links:https://emsi.ma/xmlrpc.php
-[+]Links:https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f)
-[+]Links:aioseo.com
-[+]Links:https://emsi.ma/
-[+]Links:https://emsi.ma/
-[+]Links:schema.org
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:fonts.googleapis.com
-[+]Links:c0.wp.com
-[+]Links:https://emsi.ma/feed/
-[+]Links:https://emsi.ma/comments/feed/
-[+]Links:https://emsi.ma/events/?ical=1
-[+]Links:https://emsi.ma/wp-content/plugins/goodlayers-core/plugins/fontawesome/fontawesome-webfont.eot#1694968439
-[+]Links:https://emsi.ma/wp-content/plugins/goodlayers-core/plugins/fontawesome/fontawesome-webfont.eot#1694968439
-[+]Links:https://emsi.ma/wp-content/plugins/goodlayers-core/plugins/fontawesome/fontawesome-webfont.woff2#1694968439
-[+]Links:https://emsi.ma/wp-content/plugins/goodlayers-core/plugins/fontawesome/fontawesome-webfont.woff#1694968439
-[+]Links:https://emsi.ma/wp-content/plugins/goodlayers-core/plugins/fontawesome/fontawesome-webfont.ttf#1694968439
-[+]Links:https://emsi.ma/wp-content/plugins/goodlayers-core/plugins/fontawesome/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular
-[+]Links:https://fonts.gstatic.com/s/abeezee/v22/esDT31xSG-6AGleN2tCUnJ8DOJKuGPLB.woff2
-[+]Links:https://fonts.gstatic.com/s/abeezee/v22/esDT31xSG-6AGleN2tCUkp8DOJKuGA.woff2
-[+]Links:https://fonts.gstatic.com/s/abeezee/v22/esDR31xSG-6AGleN2tukkJUEGpCeGQ.woff2
-[+]Links:https://fonts.gstatic.com/s/abeezee/v22/esDR31xSG-6AGleN2tWkkJUEGpA.woff2
-[+]Links:wp-block-columns.is
-[+]Links:wp-block-columns.is
-[+]Links:wp-block-post-template.is
-[+]Links:wp-block-post-template.is
-[+]Links:wp-block-post-template.is
-[+]Links:wp-block-post-template.is
-[+]Links:wp-block-columns.is
-[+]Links:wp-block-columns.is
-[+]Links:https://c0.wp.com/c/6.4.2/wp-includes/css/dist/block-library/style.min.css
-[+]Links:https://c0.wp.com/c/6.4.2/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css
-[+]Links:https://c0.wp.com/c/6.4.2/wp-includes/js/mediaelement/wp-mediaelement.min.css
-[+]Links:https://emsi.ma/wp-content/cache/wpo-minify/1694968439/assets/wpo-minify-header-702a3e8b.min.css
-[+]Links:https://c0.wp.com/p/jetpack/11.4.1/css/jetpack.css
-[+]Links:https://c0.wp.com/c/6.4.2/wp-includes/js/jquery/jquery.min.js
-[+]Links:https://c0.wp.com/c/6.4.2/wp-includes/js/jquery/jquery-migrate.min.js
-[+]Links:https://emsi.ma/wp-content/themes/kingster/js/html5.js
-[+]Links:https://emsi.ma/xmlrpc.php?rsd
-[+]Links:https://emsi.ma/
-[+]Links:https://emsi.ma/wp-json/oembed/1.0/embed?url=https%3A%2F%2Femsi.ma%2F
-[+]Links:https://emsi.ma/wp-json/oembed/1.0/embed?url=https%3A%2F%2Femsi.ma%2F&#038;format=xml
-[+]Links:https://emsi.ma
-[+]Links:https://emsi.ma/wp-json/tribe/events/v1/
-[+]Links:https://emsi.ma/wp-admin/admin-ajax.php
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/cropped-emsi_logo-32x32.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/cropped-emsi_logo-192x192.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/cropped-emsi_logo-180x180.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/cropped-emsi_logo-270x270.png
-[+]Links:e.mh
-[+]Links:e.mh
-[+]Links:e.mh
-[+]Links:e.mh
-[+]Links:e.mh
-[+]Links:e.mh
-[+]Links:https://www.googletagmanager.com/ns.html?id=GTM-WVGGCML
-[+]Links:https://emsi.ma/
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/logo.png
-[+]Links:https://emsi.ma/mot-du-president/
-[+]Links:https://emsi.ma/decouvrir-lemsi2/
-[+]Links:https://emsi.ma/nos-campus/
-[+]Links:https://emsi.ma/nos-valeurs/
-[+]Links:https://emsi.ma/mot-du-ceo/
-[+]Links:https://emsi.ma/reseau-honoris/
-[+]Links:https://emsi.ma/mission-et-valeurs/
-[+]Links:https://emsi.ma/admissions-post-bac/
-[+]Links:https://emsi.ma/admissions-paralleles/
-[+]Links:https://emsi.ma/frais-et-financement/
-[+]Links:https://emsi.ma/cursus-des-etudes/
-[+]Links:https://emsi.ma/filieres-et-programmes/
-[+]Links:https://emsi.ma/certifications-technologiques/
-[+]Links:https://emsi.ma/partenariats-a-linternational/
-[+]Links:https://emsi.ma/linfrastructure-globale/
-[+]Links:https://emsi.ma/espaces-de-partages/
-[+]Links:https://emsi.ma/nos-recruteurs/
-[+]Links:https://emsi.ma/alumni-2/
-[+]Links:https://emsi.ma/temoignages/
-[+]Links:https://emsi.ma/centre-de-carrieres/
-[+]Links:https://emsi.ma/guide-pratique-de-lemployabilite/
-[+]Links:https://emsi.ma/employabilite/honoris-21st-century-skills-certificate/
-[+]Links:https://emsi.ma/temoignages-entreprises/
-[+]Links:https://emsi.ma/temoignages-des-etudiants/
-[+]Links:https://emsi.ma/strategie-emsi-groupe/
-[+]Links:https://emsi.ma/prix-et-distinctions/
-[+]Links:https://emsi.ma/laboratoires-de-recherches/
-[+]Links:https://emsi.ma/campus-life/
-[+]Links:https://www.facebook.com/emsi.ma/
-[+]Links:https://www.linkedin.com/school/ecole-marocaine-des-sciences-de-l&#039;ing%C3%A9nieur
-[+]Links:https://www.youtube.com/channel/UC5BiOBai2N48ytbCRQWWqJw
-[+]Links:https://instagram.com/groupe.emsi?igshid=7rikpderxqla
-[+]Links:https://emsi.ma/nos-campus/
-[+]Links:https://emsi.ma/event-calendar/
-[+]Links:https://emsi.ma/candidature
-[+]Links:https://emsi.ma/
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/logo.png
-[+]Links:https://emsi.ma/mot-du-president/
-[+]Links:https://emsi.ma/decouvrir-lemsi2/
-[+]Links:https://emsi.ma/nos-campus/
-[+]Links:https://emsi.ma/nos-valeurs/
-[+]Links:https://emsi.ma/mot-du-ceo/
-[+]Links:https://emsi.ma/reseau-honoris/
-[+]Links:https://emsi.ma/mission-et-valeurs/
-[+]Links:https://emsi.ma/admissions-post-bac/
-[+]Links:https://emsi.ma/admissions-paralleles/
-[+]Links:https://emsi.ma/frais-et-financement/
-[+]Links:https://emsi.ma/cursus-des-etudes/
-[+]Links:https://emsi.ma/filieres-et-programmes/
-[+]Links:https://emsi.ma/certifications-technologiques/
-[+]Links:https://emsi.ma/partenariats-a-linternational/
-[+]Links:https://emsi.ma/linfrastructure-globale/
-[+]Links:https://emsi.ma/espaces-de-partages/
-[+]Links:https://emsi.ma/nos-recruteurs/
-[+]Links:https://emsi.ma/alumni-2/
-[+]Links:https://emsi.ma/temoignages/
-[+]Links:https://emsi.ma/centre-de-carrieres/
-[+]Links:https://emsi.ma/guide-pratique-de-lemployabilite/
-[+]Links:https://emsi.ma/employabilite/honoris-21st-century-skills-certificate/
-[+]Links:https://emsi.ma/temoignages-entreprises/
-[+]Links:https://emsi.ma/temoignages-des-etudiants/
-[+]Links:https://emsi.ma/strategie-emsi-groupe/
-[+]Links:https://emsi.ma/prix-et-distinctions/
-[+]Links:https://emsi.ma/laboratoires-de-recherches/
-[+]Links:https://emsi.ma/campus-life/
-[+]Links:emsi.ma/candidature
-[+]Links:emsi.ma/wp-content/plugins/revslider/public/assets/assets/dummy.png
-[+]Links:emsi.ma/wp-content/uploads/2023/06/21x10-slider-EMSI.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/MMPT5309-scaled.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2018/08/hp2-col-4.jpg
-[+]Links:https://emsi.ma/candidature
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1736-1-scaled-1.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1736-1-scaled-1-400x266.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1736-1-scaled-1-600x400.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1736-1-scaled-1-800x533.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1736-1-scaled-1.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1933-scaled-1.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1933-scaled-1-400x268.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1933-scaled-1-600x402.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1933-scaled-1-800x536.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1933-scaled-1.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Laboratoire1.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Laboratoire1-400x266.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Laboratoire1-600x400.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Laboratoire1-800x533.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Laboratoire1.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Rea-11.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Rea-11-400x266.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Rea-11-600x400.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Rea-11-800x533.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Rea-11.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/MMPT5559-scaled.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/MMPT5559-scaled-400x266.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/MMPT5559-scaled-600x400.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/MMPT5559-scaled-800x533.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/MMPT5559-scaled.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/3196-scaled.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2018/08/hp2-col-1.jpg
-[+]Links:https://renseignement-digital.emsi.ma/login/
-[+]Links:https://emsi.ma/wp-content/uploads/2018/08/col-icon-3.png
-[+]Links:https://emsi.ma/wp-content/uploads/2018/08/col-icon-4.png
-[+]Links:https://emsi.ma/wp-content/uploads/2018/08/col-icon-2.png
-[+]Links:https://www.leconomiste.com/flash-infos/l-emsi-primee-tokyo
-[+]Links:https://www.leconomiste.com/flash-infos/tanger-l-anef-sensibilise-aux-risques-des-feux-de-foret
-[+]Links:https://leseco.ma/business/emsi-mohamed-essaidi-notre-relation-avec-les-entreprises-est-une-relation-de-proximite.html
-[+]Links:https://fr.media7.ma/les-technologies-de-lia-et-de-realite-virtuelle-sont-en-train-de-revolutionner-les-modes-denseignement-expert
-[+]Links:https://www.leconomiste.com/flash-infos/salon-des-inventions-d-istanbul-le-maroc-s-illustre
-[+]Links:https://fr.le7tv.ma/2022/10/05/concours-international-dinvention-a-londres-quatre-medailles-pour-le-maroc/
-[+]Links:https://www.infomediaire.net/le-maroc-gagne-le-grand-prix-de-la-meilleure-invention-internationale-a-istanbul/
-[+]Links:https://www.leconomiste.com/flash-infos/l-emsi-s-illustre-au-canada?fbclid=IwAR2A6JPErM6XV4lZlkAcd6JXBsDaJXl1dsvAs1dvmsBwKMjYbLZZ8IdLj-A
-[+]Links:https://www.leconomiste.com/flash-infos/innovation-l-emsi-primee-aux-etats-unis
-[+]Links:https://www.leconomiste.com/flash-infos/l-emsi-et-sothema-scellent-un-partenariat-strategique
-[+]Links:https://telquel.ma/2021/12/09/signature-dune-convention-de-partenariat-entre-axa-services-maroc-et-lecole-marocaine-des-sciences-de-lingenieur-emsi_1746649
-[+]Links:https://www.challenge.ma/cgem-kamal-daissaoui-elu-a-la-tete-de-lenseignement-prive-155119/
-[+]Links:https://www.leconomiste.com/flash-infos/l-emsi-brille-la-silicon-valley
-[+]Links:https://northafricapost.com/41168-morocco-wins-three-gold-medals-at-euroinvent-fair.html
-[+]Links:https://2m.ma/fr/news/lemsi-decroche-2-medailles-dor-et-7-distinctions-au-salon-dinnovation-distanbul-20190923/
-[+]Links:https://www.bladi.net/maroc-salon-international-inventions-geneve,55346.html
-[+]Links:https://fr.hibapress.com/news-48660.html
-[+]Links:https://emsi.ma/les-medias-parlent-de-nous/
-[+]Links:https://emsi.ma/wp-content/uploads/2020/09/media.jpg
-[+]Links:https://www.youtube.com/watch?v=myd51ZQnTZk&#038;t=29s
-[+]Links:https://emsi.ma/wp-content/uploads/2018/08/icon-play.png
-[+]Links:https://emsi.ma/event/journees-portes-ouvertes/
-[+]Links:https://emsi.ma/event/jpo-2/
-[+]Links:https://emsi.ma/wp-content/uploads/2022/06/35.jpg
-[+]Links:https://www.youtube.com/watch?v=42LgnruZWd8
-[+]Links:https://emsi.ma/wp-content/uploads/2018/08/icon-play.png
-[+]Links:https://www.facebook.com/emsi.ma/
-[+]Links:https://www.linkedin.com/school/ecole-marocaine-des-sciences-de-l&#039;ing%C3%A9nieur
-[+]Links:https://www.youtube.com/channel/UC5BiOBai2N48ytbCRQWWqJw
-[+]Links:https://instagram.com/groupe.emsi?igshid=7rikpderxqla
-[+]Links:https://emsi.ma/ingenierie-informatique-et-reseaux/
-[+]Links:https://emsi.ma/ingenierie-financiere-et-audit/
-[+]Links:https://emsi.ma/genie-civil-batiments-et-travaux-publics-btp/
-[+]Links:https://emsi.ma/genie-industriel/
-[+]Links:https://emsi.ma/ingenierie-des-automatismes-et-informatique-industrielle/
-[+]Links:https://emsi.ma/?page_id=11169
-[+]Links:https://emsi.ma/admissions-post-bac/
-[+]Links:https://emsi.ma/admissions-paralleles/
-[+]Links:https://emsi.ma/frais-et-financement/
-[+]Links:https://emsi.ma/nos-campus/
-[+]Links:https://emsi.ma/charte-de-protection-des-donnees-a-caractere-personnel/
-[+]Links:https://fonts.googleapis.com/css?family=Roboto:400&display=swap
-[+]Links:https://emsi.ma/wp-content/cache/wpo-minify/1694968439/assets/wpo-minify-footer-1fb2110e.min.css
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:https://emsi.ma/wp-content/cache/wpo-minify/1694968439/assets/wpo-minify-footer-1a372242.min.js
-[+]Links:https://c0.wp.com/c/6.4.2/wp-includes/js/jquery/ui/effect.min.js
-[+]Links:emsi.ma
-[+]Links:https://emsi.ma/wp-content/cache/wpo-minify/1694968439/assets/wpo-minify-footer-7fe308ed.min.js
-[+]Links:https://stats.wp.com/e-202349.js
-[+]Links:emsi.ma
-[+]Links:https://getwpo.com
-https://emsi.ma
-[+]Encoded URL: https://emsi.ma/
-[+]Allowed methods: None
-[+]Links:https://ogp.me/ns#
-[+]Links:http://gmpg.org/xfn/11
-[+]Links:https://emsi.ma/xmlrpc.php
-[+]Links:https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f)
-[+]Links:aioseo.com
-[+]Links:https://emsi.ma/
-[+]Links:https://emsi.ma/
-[+]Links:schema.org
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:fonts.googleapis.com
-[+]Links:c0.wp.com
-[+]Links:https://emsi.ma/feed/
-[+]Links:https://emsi.ma/comments/feed/
-[+]Links:https://emsi.ma/events/?ical=1
-[+]Links:https://emsi.ma/wp-content/plugins/goodlayers-core/plugins/fontawesome/fontawesome-webfont.eot#1694968439
-[+]Links:https://emsi.ma/wp-content/plugins/goodlayers-core/plugins/fontawesome/fontawesome-webfont.eot#1694968439
-[+]Links:https://emsi.ma/wp-content/plugins/goodlayers-core/plugins/fontawesome/fontawesome-webfont.woff2#1694968439
-[+]Links:https://emsi.ma/wp-content/plugins/goodlayers-core/plugins/fontawesome/fontawesome-webfont.woff#1694968439
-[+]Links:https://emsi.ma/wp-content/plugins/goodlayers-core/plugins/fontawesome/fontawesome-webfont.ttf#1694968439
-[+]Links:https://emsi.ma/wp-content/plugins/goodlayers-core/plugins/fontawesome/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular
-[+]Links:https://fonts.gstatic.com/s/abeezee/v22/esDT31xSG-6AGleN2tCUnJ8DOJKuGPLB.woff2
-[+]Links:https://fonts.gstatic.com/s/abeezee/v22/esDT31xSG-6AGleN2tCUkp8DOJKuGA.woff2
-[+]Links:https://fonts.gstatic.com/s/abeezee/v22/esDR31xSG-6AGleN2tukkJUEGpCeGQ.woff2
-[+]Links:https://fonts.gstatic.com/s/abeezee/v22/esDR31xSG-6AGleN2tWkkJUEGpA.woff2
-[+]Links:wp-block-columns.is
-[+]Links:wp-block-columns.is
-[+]Links:wp-block-post-template.is
-[+]Links:wp-block-post-template.is
-[+]Links:wp-block-post-template.is
-[+]Links:wp-block-post-template.is
-[+]Links:wp-block-columns.is
-[+]Links:wp-block-columns.is
-[+]Links:https://c0.wp.com/c/6.4.2/wp-includes/css/dist/block-library/style.min.css
-[+]Links:https://c0.wp.com/c/6.4.2/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css
-[+]Links:https://c0.wp.com/c/6.4.2/wp-includes/js/mediaelement/wp-mediaelement.min.css
-[+]Links:https://emsi.ma/wp-content/cache/wpo-minify/1694968439/assets/wpo-minify-header-702a3e8b.min.css
-[+]Links:https://c0.wp.com/p/jetpack/11.4.1/css/jetpack.css
-[+]Links:https://c0.wp.com/c/6.4.2/wp-includes/js/jquery/jquery.min.js
-[+]Links:https://c0.wp.com/c/6.4.2/wp-includes/js/jquery/jquery-migrate.min.js
-[+]Links:https://emsi.ma/wp-content/themes/kingster/js/html5.js
-[+]Links:https://emsi.ma/xmlrpc.php?rsd
-[+]Links:https://emsi.ma/
-[+]Links:https://emsi.ma/wp-json/oembed/1.0/embed?url=https%3A%2F%2Femsi.ma%2F
-[+]Links:https://emsi.ma/wp-json/oembed/1.0/embed?url=https%3A%2F%2Femsi.ma%2F&#038;format=xml
-[+]Links:https://emsi.ma
-[+]Links:https://emsi.ma/wp-json/tribe/events/v1/
-[+]Links:https://emsi.ma/wp-admin/admin-ajax.php
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/cropped-emsi_logo-32x32.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/cropped-emsi_logo-192x192.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/cropped-emsi_logo-180x180.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/cropped-emsi_logo-270x270.png
-[+]Links:e.mh
-[+]Links:e.mh
-[+]Links:e.mh
-[+]Links:e.mh
-[+]Links:e.mh
-[+]Links:e.mh
-[+]Links:https://www.googletagmanager.com/ns.html?id=GTM-WVGGCML
-[+]Links:https://emsi.ma/
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/logo.png
-[+]Links:https://emsi.ma/mot-du-president/
-[+]Links:https://emsi.ma/decouvrir-lemsi2/
-[+]Links:https://emsi.ma/nos-campus/
-[+]Links:https://emsi.ma/nos-valeurs/
-[+]Links:https://emsi.ma/mot-du-ceo/
-[+]Links:https://emsi.ma/reseau-honoris/
-[+]Links:https://emsi.ma/mission-et-valeurs/
-[+]Links:https://emsi.ma/admissions-post-bac/
-[+]Links:https://emsi.ma/admissions-paralleles/
-[+]Links:https://emsi.ma/frais-et-financement/
-[+]Links:https://emsi.ma/cursus-des-etudes/
-[+]Links:https://emsi.ma/filieres-et-programmes/
-[+]Links:https://emsi.ma/certifications-technologiques/
-[+]Links:https://emsi.ma/partenariats-a-linternational/
-[+]Links:https://emsi.ma/linfrastructure-globale/
-[+]Links:https://emsi.ma/espaces-de-partages/
-[+]Links:https://emsi.ma/nos-recruteurs/
-[+]Links:https://emsi.ma/alumni-2/
-[+]Links:https://emsi.ma/temoignages/
-[+]Links:https://emsi.ma/centre-de-carrieres/
-[+]Links:https://emsi.ma/guide-pratique-de-lemployabilite/
-[+]Links:https://emsi.ma/employabilite/honoris-21st-century-skills-certificate/
-[+]Links:https://emsi.ma/temoignages-entreprises/
-[+]Links:https://emsi.ma/temoignages-des-etudiants/
-[+]Links:https://emsi.ma/strategie-emsi-groupe/
-[+]Links:https://emsi.ma/prix-et-distinctions/
-[+]Links:https://emsi.ma/laboratoires-de-recherches/
-[+]Links:https://emsi.ma/campus-life/
-[+]Links:https://www.facebook.com/emsi.ma/
-[+]Links:https://www.linkedin.com/school/ecole-marocaine-des-sciences-de-l&#039;ing%C3%A9nieur
-[+]Links:https://www.youtube.com/channel/UC5BiOBai2N48ytbCRQWWqJw
-[+]Links:https://instagram.com/groupe.emsi?igshid=7rikpderxqla
-[+]Links:https://emsi.ma/nos-campus/
-[+]Links:https://emsi.ma/event-calendar/
-[+]Links:https://emsi.ma/candidature
-[+]Links:https://emsi.ma/
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/logo.png
-[+]Links:https://emsi.ma/mot-du-president/
-[+]Links:https://emsi.ma/decouvrir-lemsi2/
-[+]Links:https://emsi.ma/nos-campus/
-[+]Links:https://emsi.ma/nos-valeurs/
-[+]Links:https://emsi.ma/mot-du-ceo/
-[+]Links:https://emsi.ma/reseau-honoris/
-[+]Links:https://emsi.ma/mission-et-valeurs/
-[+]Links:https://emsi.ma/admissions-post-bac/
-[+]Links:https://emsi.ma/admissions-paralleles/
-[+]Links:https://emsi.ma/frais-et-financement/
-[+]Links:https://emsi.ma/cursus-des-etudes/
-[+]Links:https://emsi.ma/filieres-et-programmes/
-[+]Links:https://emsi.ma/certifications-technologiques/
-[+]Links:https://emsi.ma/partenariats-a-linternational/
-[+]Links:https://emsi.ma/linfrastructure-globale/
-[+]Links:https://emsi.ma/espaces-de-partages/
-[+]Links:https://emsi.ma/nos-recruteurs/
-[+]Links:https://emsi.ma/alumni-2/
-[+]Links:https://emsi.ma/temoignages/
-[+]Links:https://emsi.ma/centre-de-carrieres/
-[+]Links:https://emsi.ma/guide-pratique-de-lemployabilite/
-[+]Links:https://emsi.ma/employabilite/honoris-21st-century-skills-certificate/
-[+]Links:https://emsi.ma/temoignages-entreprises/
-[+]Links:https://emsi.ma/temoignages-des-etudiants/
-[+]Links:https://emsi.ma/strategie-emsi-groupe/
-[+]Links:https://emsi.ma/prix-et-distinctions/
-[+]Links:https://emsi.ma/laboratoires-de-recherches/
-[+]Links:https://emsi.ma/campus-life/
-[+]Links:emsi.ma/candidature
-[+]Links:emsi.ma/wp-content/plugins/revslider/public/assets/assets/dummy.png
-[+]Links:emsi.ma/wp-content/uploads/2023/06/21x10-slider-EMSI.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/MMPT5309-scaled.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2018/08/hp2-col-4.jpg
-[+]Links:https://emsi.ma/candidature
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1736-1-scaled-1.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1736-1-scaled-1-400x266.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1736-1-scaled-1-600x400.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1736-1-scaled-1-800x533.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1736-1-scaled-1.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1933-scaled-1.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1933-scaled-1-400x268.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1933-scaled-1-600x402.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1933-scaled-1-800x536.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1933-scaled-1.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Laboratoire1.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Laboratoire1-400x266.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Laboratoire1-600x400.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Laboratoire1-800x533.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Laboratoire1.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Rea-11.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Rea-11-400x266.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Rea-11-600x400.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Rea-11-800x533.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Rea-11.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/MMPT5559-scaled.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/MMPT5559-scaled-400x266.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/MMPT5559-scaled-600x400.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/MMPT5559-scaled-800x533.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/MMPT5559-scaled.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/3196-scaled.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2018/08/hp2-col-1.jpg
-[+]Links:https://renseignement-digital.emsi.ma/login/
-[+]Links:https://emsi.ma/wp-content/uploads/2018/08/col-icon-3.png
-[+]Links:https://emsi.ma/wp-content/uploads/2018/08/col-icon-4.png
-[+]Links:https://emsi.ma/wp-content/uploads/2018/08/col-icon-2.png
-[+]Links:https://www.leconomiste.com/flash-infos/l-emsi-primee-tokyo
-[+]Links:https://www.leconomiste.com/flash-infos/tanger-l-anef-sensibilise-aux-risques-des-feux-de-foret
-[+]Links:https://leseco.ma/business/emsi-mohamed-essaidi-notre-relation-avec-les-entreprises-est-une-relation-de-proximite.html
-[+]Links:https://fr.media7.ma/les-technologies-de-lia-et-de-realite-virtuelle-sont-en-train-de-revolutionner-les-modes-denseignement-expert
-[+]Links:https://www.leconomiste.com/flash-infos/salon-des-inventions-d-istanbul-le-maroc-s-illustre
-[+]Links:https://fr.le7tv.ma/2022/10/05/concours-international-dinvention-a-londres-quatre-medailles-pour-le-maroc/
-[+]Links:https://www.infomediaire.net/le-maroc-gagne-le-grand-prix-de-la-meilleure-invention-internationale-a-istanbul/
-[+]Links:https://www.leconomiste.com/flash-infos/l-emsi-s-illustre-au-canada?fbclid=IwAR2A6JPErM6XV4lZlkAcd6JXBsDaJXl1dsvAs1dvmsBwKMjYbLZZ8IdLj-A
-[+]Links:https://www.leconomiste.com/flash-infos/innovation-l-emsi-primee-aux-etats-unis
-[+]Links:https://www.leconomiste.com/flash-infos/l-emsi-et-sothema-scellent-un-partenariat-strategique
-[+]Links:https://telquel.ma/2021/12/09/signature-dune-convention-de-partenariat-entre-axa-services-maroc-et-lecole-marocaine-des-sciences-de-lingenieur-emsi_1746649
-[+]Links:https://www.challenge.ma/cgem-kamal-daissaoui-elu-a-la-tete-de-lenseignement-prive-155119/
-[+]Links:https://www.leconomiste.com/flash-infos/l-emsi-brille-la-silicon-valley
-[+]Links:https://northafricapost.com/41168-morocco-wins-three-gold-medals-at-euroinvent-fair.html
-[+]Links:https://2m.ma/fr/news/lemsi-decroche-2-medailles-dor-et-7-distinctions-au-salon-dinnovation-distanbul-20190923/
-[+]Links:https://www.bladi.net/maroc-salon-international-inventions-geneve,55346.html
-[+]Links:https://fr.hibapress.com/news-48660.html
-[+]Links:https://emsi.ma/les-medias-parlent-de-nous/
-[+]Links:https://emsi.ma/wp-content/uploads/2020/09/media.jpg
-[+]Links:https://www.youtube.com/watch?v=myd51ZQnTZk&#038;t=29s
-[+]Links:https://emsi.ma/wp-content/uploads/2018/08/icon-play.png
-[+]Links:https://emsi.ma/event/journees-portes-ouvertes/
-[+]Links:https://emsi.ma/event/jpo-2/
-[+]Links:https://emsi.ma/wp-content/uploads/2022/06/35.jpg
-[+]Links:https://www.youtube.com/watch?v=42LgnruZWd8
-[+]Links:https://emsi.ma/wp-content/uploads/2018/08/icon-play.png
-[+]Links:https://www.facebook.com/emsi.ma/
-[+]Links:https://www.linkedin.com/school/ecole-marocaine-des-sciences-de-l&#039;ing%C3%A9nieur
-[+]Links:https://www.youtube.com/channel/UC5BiOBai2N48ytbCRQWWqJw
-[+]Links:https://instagram.com/groupe.emsi?igshid=7rikpderxqla
-[+]Links:https://emsi.ma/ingenierie-informatique-et-reseaux/
-[+]Links:https://emsi.ma/ingenierie-financiere-et-audit/
-[+]Links:https://emsi.ma/genie-civil-batiments-et-travaux-publics-btp/
-[+]Links:https://emsi.ma/genie-industriel/
-[+]Links:https://emsi.ma/ingenierie-des-automatismes-et-informatique-industrielle/
-[+]Links:https://emsi.ma/?page_id=11169
-[+]Links:https://emsi.ma/admissions-post-bac/
-[+]Links:https://emsi.ma/admissions-paralleles/
-[+]Links:https://emsi.ma/frais-et-financement/
-[+]Links:https://emsi.ma/nos-campus/
-[+]Links:https://emsi.ma/charte-de-protection-des-donnees-a-caractere-personnel/
-[+]Links:https://fonts.googleapis.com/css?family=Roboto:400&display=swap
-[+]Links:https://emsi.ma/wp-content/cache/wpo-minify/1694968439/assets/wpo-minify-footer-1fb2110e.min.css
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:https://emsi.ma/wp-content/cache/wpo-minify/1694968439/assets/wpo-minify-footer-1a372242.min.js
-[+]Links:https://c0.wp.com/c/6.4.2/wp-includes/js/jquery/ui/effect.min.js
-[+]Links:emsi.ma
-[+]Links:https://emsi.ma/wp-content/cache/wpo-minify/1694968439/assets/wpo-minify-footer-7fe308ed.min.js
-[+]Links:https://stats.wp.com/e-202349.js
-[+]Links:emsi.ma
-[+]Links:https://getwpo.com
-https://emsi.ma
-[+]Encoded URL: https://emsi.ma/
-[+]Allowed methods: None
-[+]Links:https://ogp.me/ns#
-[+]Links:http://gmpg.org/xfn/11
-[+]Links:https://emsi.ma/xmlrpc.php
-[+]Links:https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f)
-[+]Links:aioseo.com
-[+]Links:https://emsi.ma/
-[+]Links:https://emsi.ma/
-[+]Links:schema.org
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:fonts.googleapis.com
-[+]Links:c0.wp.com
-[+]Links:https://emsi.ma/feed/
-[+]Links:https://emsi.ma/comments/feed/
-[+]Links:https://emsi.ma/events/?ical=1
-[+]Links:https://emsi.ma/wp-content/plugins/goodlayers-core/plugins/fontawesome/fontawesome-webfont.eot#1694968439
-[+]Links:https://emsi.ma/wp-content/plugins/goodlayers-core/plugins/fontawesome/fontawesome-webfont.eot#1694968439
-[+]Links:https://emsi.ma/wp-content/plugins/goodlayers-core/plugins/fontawesome/fontawesome-webfont.woff2#1694968439
-[+]Links:https://emsi.ma/wp-content/plugins/goodlayers-core/plugins/fontawesome/fontawesome-webfont.woff#1694968439
-[+]Links:https://emsi.ma/wp-content/plugins/goodlayers-core/plugins/fontawesome/fontawesome-webfont.ttf#1694968439
-[+]Links:https://emsi.ma/wp-content/plugins/goodlayers-core/plugins/fontawesome/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular
-[+]Links:https://fonts.gstatic.com/s/abeezee/v22/esDT31xSG-6AGleN2tCUnJ8DOJKuGPLB.woff2
-[+]Links:https://fonts.gstatic.com/s/abeezee/v22/esDT31xSG-6AGleN2tCUkp8DOJKuGA.woff2
-[+]Links:https://fonts.gstatic.com/s/abeezee/v22/esDR31xSG-6AGleN2tukkJUEGpCeGQ.woff2
-[+]Links:https://fonts.gstatic.com/s/abeezee/v22/esDR31xSG-6AGleN2tWkkJUEGpA.woff2
-[+]Links:wp-block-columns.is
-[+]Links:wp-block-columns.is
-[+]Links:wp-block-post-template.is
-[+]Links:wp-block-post-template.is
-[+]Links:wp-block-post-template.is
-[+]Links:wp-block-post-template.is
-[+]Links:wp-block-columns.is
-[+]Links:wp-block-columns.is
-[+]Links:https://c0.wp.com/c/6.4.2/wp-includes/css/dist/block-library/style.min.css
-[+]Links:https://c0.wp.com/c/6.4.2/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css
-[+]Links:https://c0.wp.com/c/6.4.2/wp-includes/js/mediaelement/wp-mediaelement.min.css
-[+]Links:https://emsi.ma/wp-content/cache/wpo-minify/1694968439/assets/wpo-minify-header-702a3e8b.min.css
-[+]Links:https://c0.wp.com/p/jetpack/11.4.1/css/jetpack.css
-[+]Links:https://c0.wp.com/c/6.4.2/wp-includes/js/jquery/jquery.min.js
-[+]Links:https://c0.wp.com/c/6.4.2/wp-includes/js/jquery/jquery-migrate.min.js
-[+]Links:https://emsi.ma/wp-content/themes/kingster/js/html5.js
-[+]Links:https://emsi.ma/xmlrpc.php?rsd
-[+]Links:https://emsi.ma/
-[+]Links:https://emsi.ma/wp-json/oembed/1.0/embed?url=https%3A%2F%2Femsi.ma%2F
-[+]Links:https://emsi.ma/wp-json/oembed/1.0/embed?url=https%3A%2F%2Femsi.ma%2F&#038;format=xml
-[+]Links:https://emsi.ma
-[+]Links:https://emsi.ma/wp-json/tribe/events/v1/
-[+]Links:https://emsi.ma/wp-admin/admin-ajax.php
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/cropped-emsi_logo-32x32.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/cropped-emsi_logo-192x192.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/cropped-emsi_logo-180x180.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/cropped-emsi_logo-270x270.png
-[+]Links:e.mh
-[+]Links:e.mh
-[+]Links:e.mh
-[+]Links:e.mh
-[+]Links:e.mh
-[+]Links:e.mh
-[+]Links:https://www.googletagmanager.com/ns.html?id=GTM-WVGGCML
-[+]Links:https://emsi.ma/
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/logo.png
-[+]Links:https://emsi.ma/mot-du-president/
-[+]Links:https://emsi.ma/decouvrir-lemsi2/
-[+]Links:https://emsi.ma/nos-campus/
-[+]Links:https://emsi.ma/nos-valeurs/
-[+]Links:https://emsi.ma/mot-du-ceo/
-[+]Links:https://emsi.ma/reseau-honoris/
-[+]Links:https://emsi.ma/mission-et-valeurs/
-[+]Links:https://emsi.ma/admissions-post-bac/
-[+]Links:https://emsi.ma/admissions-paralleles/
-[+]Links:https://emsi.ma/frais-et-financement/
-[+]Links:https://emsi.ma/cursus-des-etudes/
-[+]Links:https://emsi.ma/filieres-et-programmes/
-[+]Links:https://emsi.ma/certifications-technologiques/
-[+]Links:https://emsi.ma/partenariats-a-linternational/
-[+]Links:https://emsi.ma/linfrastructure-globale/
-[+]Links:https://emsi.ma/espaces-de-partages/
-[+]Links:https://emsi.ma/nos-recruteurs/
-[+]Links:https://emsi.ma/alumni-2/
-[+]Links:https://emsi.ma/temoignages/
-[+]Links:https://emsi.ma/centre-de-carrieres/
-[+]Links:https://emsi.ma/guide-pratique-de-lemployabilite/
-[+]Links:https://emsi.ma/employabilite/honoris-21st-century-skills-certificate/
-[+]Links:https://emsi.ma/temoignages-entreprises/
-[+]Links:https://emsi.ma/temoignages-des-etudiants/
-[+]Links:https://emsi.ma/strategie-emsi-groupe/
-[+]Links:https://emsi.ma/prix-et-distinctions/
-[+]Links:https://emsi.ma/laboratoires-de-recherches/
-[+]Links:https://emsi.ma/campus-life/
-[+]Links:https://www.facebook.com/emsi.ma/
-[+]Links:https://www.linkedin.com/school/ecole-marocaine-des-sciences-de-l&#039;ing%C3%A9nieur
-[+]Links:https://www.youtube.com/channel/UC5BiOBai2N48ytbCRQWWqJw
-[+]Links:https://instagram.com/groupe.emsi?igshid=7rikpderxqla
-[+]Links:https://emsi.ma/nos-campus/
-[+]Links:https://emsi.ma/event-calendar/
-[+]Links:https://emsi.ma/candidature
-[+]Links:https://emsi.ma/
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/logo.png
-[+]Links:https://emsi.ma/mot-du-president/
-[+]Links:https://emsi.ma/decouvrir-lemsi2/
-[+]Links:https://emsi.ma/nos-campus/
-[+]Links:https://emsi.ma/nos-valeurs/
-[+]Links:https://emsi.ma/mot-du-ceo/
-[+]Links:https://emsi.ma/reseau-honoris/
-[+]Links:https://emsi.ma/mission-et-valeurs/
-[+]Links:https://emsi.ma/admissions-post-bac/
-[+]Links:https://emsi.ma/admissions-paralleles/
-[+]Links:https://emsi.ma/frais-et-financement/
-[+]Links:https://emsi.ma/cursus-des-etudes/
-[+]Links:https://emsi.ma/filieres-et-programmes/
-[+]Links:https://emsi.ma/certifications-technologiques/
-[+]Links:https://emsi.ma/partenariats-a-linternational/
-[+]Links:https://emsi.ma/linfrastructure-globale/
-[+]Links:https://emsi.ma/espaces-de-partages/
-[+]Links:https://emsi.ma/nos-recruteurs/
-[+]Links:https://emsi.ma/alumni-2/
-[+]Links:https://emsi.ma/temoignages/
-[+]Links:https://emsi.ma/centre-de-carrieres/
-[+]Links:https://emsi.ma/guide-pratique-de-lemployabilite/
-[+]Links:https://emsi.ma/employabilite/honoris-21st-century-skills-certificate/
-[+]Links:https://emsi.ma/temoignages-entreprises/
-[+]Links:https://emsi.ma/temoignages-des-etudiants/
-[+]Links:https://emsi.ma/strategie-emsi-groupe/
-[+]Links:https://emsi.ma/prix-et-distinctions/
-[+]Links:https://emsi.ma/laboratoires-de-recherches/
-[+]Links:https://emsi.ma/campus-life/
-[+]Links:emsi.ma/candidature
-[+]Links:emsi.ma/wp-content/plugins/revslider/public/assets/assets/dummy.png
-[+]Links:emsi.ma/wp-content/uploads/2023/06/21x10-slider-EMSI.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/MMPT5309-scaled.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2018/08/hp2-col-4.jpg
-[+]Links:https://emsi.ma/candidature
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1736-1-scaled-1.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1736-1-scaled-1-400x266.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1736-1-scaled-1-600x400.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1736-1-scaled-1-800x533.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1736-1-scaled-1.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1933-scaled-1.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1933-scaled-1-400x268.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1933-scaled-1-600x402.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1933-scaled-1-800x536.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1933-scaled-1.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Laboratoire1.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Laboratoire1-400x266.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Laboratoire1-600x400.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Laboratoire1-800x533.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Laboratoire1.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Rea-11.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Rea-11-400x266.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Rea-11-600x400.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Rea-11-800x533.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Rea-11.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/MMPT5559-scaled.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/MMPT5559-scaled-400x266.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/MMPT5559-scaled-600x400.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/MMPT5559-scaled-800x533.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/MMPT5559-scaled.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/3196-scaled.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2018/08/hp2-col-1.jpg
-[+]Links:https://renseignement-digital.emsi.ma/login/
-[+]Links:https://emsi.ma/wp-content/uploads/2018/08/col-icon-3.png
-[+]Links:https://emsi.ma/wp-content/uploads/2018/08/col-icon-4.png
-[+]Links:https://emsi.ma/wp-content/uploads/2018/08/col-icon-2.png
-[+]Links:https://www.leconomiste.com/flash-infos/l-emsi-primee-tokyo
-[+]Links:https://www.leconomiste.com/flash-infos/tanger-l-anef-sensibilise-aux-risques-des-feux-de-foret
-[+]Links:https://leseco.ma/business/emsi-mohamed-essaidi-notre-relation-avec-les-entreprises-est-une-relation-de-proximite.html
-[+]Links:https://fr.media7.ma/les-technologies-de-lia-et-de-realite-virtuelle-sont-en-train-de-revolutionner-les-modes-denseignement-expert
-[+]Links:https://www.leconomiste.com/flash-infos/salon-des-inventions-d-istanbul-le-maroc-s-illustre
-[+]Links:https://fr.le7tv.ma/2022/10/05/concours-international-dinvention-a-londres-quatre-medailles-pour-le-maroc/
-[+]Links:https://www.infomediaire.net/le-maroc-gagne-le-grand-prix-de-la-meilleure-invention-internationale-a-istanbul/
-[+]Links:https://www.leconomiste.com/flash-infos/l-emsi-s-illustre-au-canada?fbclid=IwAR2A6JPErM6XV4lZlkAcd6JXBsDaJXl1dsvAs1dvmsBwKMjYbLZZ8IdLj-A
-[+]Links:https://www.leconomiste.com/flash-infos/innovation-l-emsi-primee-aux-etats-unis
-[+]Links:https://www.leconomiste.com/flash-infos/l-emsi-et-sothema-scellent-un-partenariat-strategique
-[+]Links:https://telquel.ma/2021/12/09/signature-dune-convention-de-partenariat-entre-axa-services-maroc-et-lecole-marocaine-des-sciences-de-lingenieur-emsi_1746649
-[+]Links:https://www.challenge.ma/cgem-kamal-daissaoui-elu-a-la-tete-de-lenseignement-prive-155119/
-[+]Links:https://www.leconomiste.com/flash-infos/l-emsi-brille-la-silicon-valley
-[+]Links:https://northafricapost.com/41168-morocco-wins-three-gold-medals-at-euroinvent-fair.html
-[+]Links:https://2m.ma/fr/news/lemsi-decroche-2-medailles-dor-et-7-distinctions-au-salon-dinnovation-distanbul-20190923/
-[+]Links:https://www.bladi.net/maroc-salon-international-inventions-geneve,55346.html
-[+]Links:https://fr.hibapress.com/news-48660.html
-[+]Links:https://emsi.ma/les-medias-parlent-de-nous/
-[+]Links:https://emsi.ma/wp-content/uploads/2020/09/media.jpg
-[+]Links:https://www.youtube.com/watch?v=myd51ZQnTZk&#038;t=29s
-[+]Links:https://emsi.ma/wp-content/uploads/2018/08/icon-play.png
-[+]Links:https://emsi.ma/event/journees-portes-ouvertes/
-[+]Links:https://emsi.ma/event/jpo-2/
-[+]Links:https://emsi.ma/wp-content/uploads/2022/06/35.jpg
-[+]Links:https://www.youtube.com/watch?v=42LgnruZWd8
-[+]Links:https://emsi.ma/wp-content/uploads/2018/08/icon-play.png
-[+]Links:https://www.facebook.com/emsi.ma/
-[+]Links:https://www.linkedin.com/school/ecole-marocaine-des-sciences-de-l&#039;ing%C3%A9nieur
-[+]Links:https://www.youtube.com/channel/UC5BiOBai2N48ytbCRQWWqJw
-[+]Links:https://instagram.com/groupe.emsi?igshid=7rikpderxqla
-[+]Links:https://emsi.ma/ingenierie-informatique-et-reseaux/
-[+]Links:https://emsi.ma/ingenierie-financiere-et-audit/
-[+]Links:https://emsi.ma/genie-civil-batiments-et-travaux-publics-btp/
-[+]Links:https://emsi.ma/genie-industriel/
-[+]Links:https://emsi.ma/ingenierie-des-automatismes-et-informatique-industrielle/
-[+]Links:https://emsi.ma/?page_id=11169
-[+]Links:https://emsi.ma/admissions-post-bac/
-[+]Links:https://emsi.ma/admissions-paralleles/
-[+]Links:https://emsi.ma/frais-et-financement/
-[+]Links:https://emsi.ma/nos-campus/
-[+]Links:https://emsi.ma/charte-de-protection-des-donnees-a-caractere-personnel/
-[+]Links:https://fonts.googleapis.com/css?family=Roboto:400&display=swap
-[+]Links:https://emsi.ma/wp-content/cache/wpo-minify/1694968439/assets/wpo-minify-footer-1fb2110e.min.css
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:https://emsi.ma/wp-content/cache/wpo-minify/1694968439/assets/wpo-minify-footer-1a372242.min.js
-[+]Links:https://c0.wp.com/c/6.4.2/wp-includes/js/jquery/ui/effect.min.js
-[+]Links:emsi.ma
-[+]Links:https://emsi.ma/wp-content/cache/wpo-minify/1694968439/assets/wpo-minify-footer-7fe308ed.min.js
-[+]Links:https://stats.wp.com/e-202349.js
-[+]Links:emsi.ma
-[+]Links:https://getwpo.com
-[+]HTTP headers: {'Connection': 'Keep-Alive', 'Keep-Alive': 'timeout=5, max=100', 'x-powered-by': 'PHP/8.1.18', 'cache-control': 'no-cache', 'wpo-cache-status': 'cached', 'last-modified': 'Fri, 08 Dec 2023 14:23:11 GMT', 'content-type': 'text/html; charset=UTF-8', 'transfer-encoding': 'chunked', 'content-encoding': 'gzip', 'vary': 'Accept-Encoding', 'date': 'Fri, 08 Dec 2023 16:37:49 GMT', 'server': 'LiteSpeed', 'alt-svc': 'h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"'}
-https://emsi.ma
-[+]Encoded URL: https://emsi.ma/
-[+]Allowed methods: None
-[+]Links:https://ogp.me/ns#
-[+]Links:http://gmpg.org/xfn/11
-[+]Links:https://emsi.ma/xmlrpc.php
-[+]Links:https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f)
-[+]Links:aioseo.com
-[+]Links:https://emsi.ma/
-[+]Links:https://emsi.ma/
-[+]Links:schema.org
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:fonts.googleapis.com
-[+]Links:c0.wp.com
-[+]Links:https://emsi.ma/feed/
-[+]Links:https://emsi.ma/comments/feed/
-[+]Links:https://emsi.ma/events/?ical=1
-[+]Links:https://emsi.ma/wp-content/plugins/goodlayers-core/plugins/fontawesome/fontawesome-webfont.eot#1694968439
-[+]Links:https://emsi.ma/wp-content/plugins/goodlayers-core/plugins/fontawesome/fontawesome-webfont.eot#1694968439
-[+]Links:https://emsi.ma/wp-content/plugins/goodlayers-core/plugins/fontawesome/fontawesome-webfont.woff2#1694968439
-[+]Links:https://emsi.ma/wp-content/plugins/goodlayers-core/plugins/fontawesome/fontawesome-webfont.woff#1694968439
-[+]Links:https://emsi.ma/wp-content/plugins/goodlayers-core/plugins/fontawesome/fontawesome-webfont.ttf#1694968439
-[+]Links:https://emsi.ma/wp-content/plugins/goodlayers-core/plugins/fontawesome/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular
-[+]Links:https://fonts.gstatic.com/s/abeezee/v22/esDT31xSG-6AGleN2tCUnJ8DOJKuGPLB.woff2
-[+]Links:https://fonts.gstatic.com/s/abeezee/v22/esDT31xSG-6AGleN2tCUkp8DOJKuGA.woff2
-[+]Links:https://fonts.gstatic.com/s/abeezee/v22/esDR31xSG-6AGleN2tukkJUEGpCeGQ.woff2
-[+]Links:https://fonts.gstatic.com/s/abeezee/v22/esDR31xSG-6AGleN2tWkkJUEGpA.woff2
-[+]Links:wp-block-columns.is
-[+]Links:wp-block-columns.is
-[+]Links:wp-block-post-template.is
-[+]Links:wp-block-post-template.is
-[+]Links:wp-block-post-template.is
-[+]Links:wp-block-post-template.is
-[+]Links:wp-block-columns.is
-[+]Links:wp-block-columns.is
-[+]Links:https://c0.wp.com/c/6.4.2/wp-includes/css/dist/block-library/style.min.css
-[+]Links:https://c0.wp.com/c/6.4.2/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css
-[+]Links:https://c0.wp.com/c/6.4.2/wp-includes/js/mediaelement/wp-mediaelement.min.css
-[+]Links:https://emsi.ma/wp-content/cache/wpo-minify/1694968439/assets/wpo-minify-header-702a3e8b.min.css
-[+]Links:https://c0.wp.com/p/jetpack/11.4.1/css/jetpack.css
-[+]Links:https://c0.wp.com/c/6.4.2/wp-includes/js/jquery/jquery.min.js
-[+]Links:https://c0.wp.com/c/6.4.2/wp-includes/js/jquery/jquery-migrate.min.js
-[+]Links:https://emsi.ma/wp-content/themes/kingster/js/html5.js
-[+]Links:https://emsi.ma/xmlrpc.php?rsd
-[+]Links:https://emsi.ma/
-[+]Links:https://emsi.ma/wp-json/oembed/1.0/embed?url=https%3A%2F%2Femsi.ma%2F
-[+]Links:https://emsi.ma/wp-json/oembed/1.0/embed?url=https%3A%2F%2Femsi.ma%2F&#038;format=xml
-[+]Links:https://emsi.ma
-[+]Links:https://emsi.ma/wp-json/tribe/events/v1/
-[+]Links:https://emsi.ma/wp-admin/admin-ajax.php
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/cropped-emsi_logo-32x32.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/cropped-emsi_logo-192x192.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/cropped-emsi_logo-180x180.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/cropped-emsi_logo-270x270.png
-[+]Links:e.mh
-[+]Links:e.mh
-[+]Links:e.mh
-[+]Links:e.mh
-[+]Links:e.mh
-[+]Links:e.mh
-[+]Links:https://www.googletagmanager.com/ns.html?id=GTM-WVGGCML
-[+]Links:https://emsi.ma/
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/logo.png
-[+]Links:https://emsi.ma/mot-du-president/
-[+]Links:https://emsi.ma/decouvrir-lemsi2/
-[+]Links:https://emsi.ma/nos-campus/
-[+]Links:https://emsi.ma/nos-valeurs/
-[+]Links:https://emsi.ma/mot-du-ceo/
-[+]Links:https://emsi.ma/reseau-honoris/
-[+]Links:https://emsi.ma/mission-et-valeurs/
-[+]Links:https://emsi.ma/admissions-post-bac/
-[+]Links:https://emsi.ma/admissions-paralleles/
-[+]Links:https://emsi.ma/frais-et-financement/
-[+]Links:https://emsi.ma/cursus-des-etudes/
-[+]Links:https://emsi.ma/filieres-et-programmes/
-[+]Links:https://emsi.ma/certifications-technologiques/
-[+]Links:https://emsi.ma/partenariats-a-linternational/
-[+]Links:https://emsi.ma/linfrastructure-globale/
-[+]Links:https://emsi.ma/espaces-de-partages/
-[+]Links:https://emsi.ma/nos-recruteurs/
-[+]Links:https://emsi.ma/alumni-2/
-[+]Links:https://emsi.ma/temoignages/
-[+]Links:https://emsi.ma/centre-de-carrieres/
-[+]Links:https://emsi.ma/guide-pratique-de-lemployabilite/
-[+]Links:https://emsi.ma/employabilite/honoris-21st-century-skills-certificate/
-[+]Links:https://emsi.ma/temoignages-entreprises/
-[+]Links:https://emsi.ma/temoignages-des-etudiants/
-[+]Links:https://emsi.ma/strategie-emsi-groupe/
-[+]Links:https://emsi.ma/prix-et-distinctions/
-[+]Links:https://emsi.ma/laboratoires-de-recherches/
-[+]Links:https://emsi.ma/campus-life/
-[+]Links:https://www.facebook.com/emsi.ma/
-[+]Links:https://www.linkedin.com/school/ecole-marocaine-des-sciences-de-l&#039;ing%C3%A9nieur
-[+]Links:https://www.youtube.com/channel/UC5BiOBai2N48ytbCRQWWqJw
-[+]Links:https://instagram.com/groupe.emsi?igshid=7rikpderxqla
-[+]Links:https://emsi.ma/nos-campus/
-[+]Links:https://emsi.ma/event-calendar/
-[+]Links:https://emsi.ma/candidature
-[+]Links:https://emsi.ma/
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/logo.png
-[+]Links:https://emsi.ma/mot-du-president/
-[+]Links:https://emsi.ma/decouvrir-lemsi2/
-[+]Links:https://emsi.ma/nos-campus/
-[+]Links:https://emsi.ma/nos-valeurs/
-[+]Links:https://emsi.ma/mot-du-ceo/
-[+]Links:https://emsi.ma/reseau-honoris/
-[+]Links:https://emsi.ma/mission-et-valeurs/
-[+]Links:https://emsi.ma/admissions-post-bac/
-[+]Links:https://emsi.ma/admissions-paralleles/
-[+]Links:https://emsi.ma/frais-et-financement/
-[+]Links:https://emsi.ma/cursus-des-etudes/
-[+]Links:https://emsi.ma/filieres-et-programmes/
-[+]Links:https://emsi.ma/certifications-technologiques/
-[+]Links:https://emsi.ma/partenariats-a-linternational/
-[+]Links:https://emsi.ma/linfrastructure-globale/
-[+]Links:https://emsi.ma/espaces-de-partages/
-[+]Links:https://emsi.ma/nos-recruteurs/
-[+]Links:https://emsi.ma/alumni-2/
-[+]Links:https://emsi.ma/temoignages/
-[+]Links:https://emsi.ma/centre-de-carrieres/
-[+]Links:https://emsi.ma/guide-pratique-de-lemployabilite/
-[+]Links:https://emsi.ma/employabilite/honoris-21st-century-skills-certificate/
-[+]Links:https://emsi.ma/temoignages-entreprises/
-[+]Links:https://emsi.ma/temoignages-des-etudiants/
-[+]Links:https://emsi.ma/strategie-emsi-groupe/
-[+]Links:https://emsi.ma/prix-et-distinctions/
-[+]Links:https://emsi.ma/laboratoires-de-recherches/
-[+]Links:https://emsi.ma/campus-life/
-[+]Links:emsi.ma/candidature
-[+]Links:emsi.ma/wp-content/plugins/revslider/public/assets/assets/dummy.png
-[+]Links:emsi.ma/wp-content/uploads/2023/06/21x10-slider-EMSI.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/MMPT5309-scaled.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2018/08/hp2-col-4.jpg
-[+]Links:https://emsi.ma/candidature
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1736-1-scaled-1.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1736-1-scaled-1-400x266.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1736-1-scaled-1-600x400.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1736-1-scaled-1-800x533.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1736-1-scaled-1.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1933-scaled-1.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1933-scaled-1-400x268.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1933-scaled-1-600x402.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1933-scaled-1-800x536.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1933-scaled-1.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Laboratoire1.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Laboratoire1-400x266.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Laboratoire1-600x400.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Laboratoire1-800x533.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Laboratoire1.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Rea-11.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Rea-11-400x266.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Rea-11-600x400.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Rea-11-800x533.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Rea-11.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/MMPT5559-scaled.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/MMPT5559-scaled-400x266.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/MMPT5559-scaled-600x400.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/MMPT5559-scaled-800x533.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/MMPT5559-scaled.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/3196-scaled.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2018/08/hp2-col-1.jpg
-[+]Links:https://renseignement-digital.emsi.ma/login/
-[+]Links:https://emsi.ma/wp-content/uploads/2018/08/col-icon-3.png
-[+]Links:https://emsi.ma/wp-content/uploads/2018/08/col-icon-4.png
-[+]Links:https://emsi.ma/wp-content/uploads/2018/08/col-icon-2.png
-[+]Links:https://www.leconomiste.com/flash-infos/l-emsi-primee-tokyo
-[+]Links:https://www.leconomiste.com/flash-infos/tanger-l-anef-sensibilise-aux-risques-des-feux-de-foret
-[+]Links:https://leseco.ma/business/emsi-mohamed-essaidi-notre-relation-avec-les-entreprises-est-une-relation-de-proximite.html
-[+]Links:https://fr.media7.ma/les-technologies-de-lia-et-de-realite-virtuelle-sont-en-train-de-revolutionner-les-modes-denseignement-expert
-[+]Links:https://www.leconomiste.com/flash-infos/salon-des-inventions-d-istanbul-le-maroc-s-illustre
-[+]Links:https://fr.le7tv.ma/2022/10/05/concours-international-dinvention-a-londres-quatre-medailles-pour-le-maroc/
-[+]Links:https://www.infomediaire.net/le-maroc-gagne-le-grand-prix-de-la-meilleure-invention-internationale-a-istanbul/
-[+]Links:https://www.leconomiste.com/flash-infos/l-emsi-s-illustre-au-canada?fbclid=IwAR2A6JPErM6XV4lZlkAcd6JXBsDaJXl1dsvAs1dvmsBwKMjYbLZZ8IdLj-A
-[+]Links:https://www.leconomiste.com/flash-infos/innovation-l-emsi-primee-aux-etats-unis
-[+]Links:https://www.leconomiste.com/flash-infos/l-emsi-et-sothema-scellent-un-partenariat-strategique
-[+]Links:https://telquel.ma/2021/12/09/signature-dune-convention-de-partenariat-entre-axa-services-maroc-et-lecole-marocaine-des-sciences-de-lingenieur-emsi_1746649
-[+]Links:https://www.challenge.ma/cgem-kamal-daissaoui-elu-a-la-tete-de-lenseignement-prive-155119/
-[+]Links:https://www.leconomiste.com/flash-infos/l-emsi-brille-la-silicon-valley
-[+]Links:https://northafricapost.com/41168-morocco-wins-three-gold-medals-at-euroinvent-fair.html
-[+]Links:https://2m.ma/fr/news/lemsi-decroche-2-medailles-dor-et-7-distinctions-au-salon-dinnovation-distanbul-20190923/
-[+]Links:https://www.bladi.net/maroc-salon-international-inventions-geneve,55346.html
-[+]Links:https://fr.hibapress.com/news-48660.html
-[+]Links:https://emsi.ma/les-medias-parlent-de-nous/
-[+]Links:https://emsi.ma/wp-content/uploads/2020/09/media.jpg
-[+]Links:https://www.youtube.com/watch?v=myd51ZQnTZk&#038;t=29s
-[+]Links:https://emsi.ma/wp-content/uploads/2018/08/icon-play.png
-[+]Links:https://emsi.ma/event/journees-portes-ouvertes/
-[+]Links:https://emsi.ma/event/jpo-2/
-[+]Links:https://emsi.ma/wp-content/uploads/2022/06/35.jpg
-[+]Links:https://www.youtube.com/watch?v=42LgnruZWd8
-[+]Links:https://emsi.ma/wp-content/uploads/2018/08/icon-play.png
-[+]Links:https://www.facebook.com/emsi.ma/
-[+]Links:https://www.linkedin.com/school/ecole-marocaine-des-sciences-de-l&#039;ing%C3%A9nieur
-[+]Links:https://www.youtube.com/channel/UC5BiOBai2N48ytbCRQWWqJw
-[+]Links:https://instagram.com/groupe.emsi?igshid=7rikpderxqla
-[+]Links:https://emsi.ma/ingenierie-informatique-et-reseaux/
-[+]Links:https://emsi.ma/ingenierie-financiere-et-audit/
-[+]Links:https://emsi.ma/genie-civil-batiments-et-travaux-publics-btp/
-[+]Links:https://emsi.ma/genie-industriel/
-[+]Links:https://emsi.ma/ingenierie-des-automatismes-et-informatique-industrielle/
-[+]Links:https://emsi.ma/?page_id=11169
-[+]Links:https://emsi.ma/admissions-post-bac/
-[+]Links:https://emsi.ma/admissions-paralleles/
-[+]Links:https://emsi.ma/frais-et-financement/
-[+]Links:https://emsi.ma/nos-campus/
-[+]Links:https://emsi.ma/charte-de-protection-des-donnees-a-caractere-personnel/
-[+]Links:https://fonts.googleapis.com/css?family=Roboto:400&display=swap
-[+]Links:https://emsi.ma/wp-content/cache/wpo-minify/1694968439/assets/wpo-minify-footer-1fb2110e.min.css
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:https://emsi.ma/wp-content/cache/wpo-minify/1694968439/assets/wpo-minify-footer-1a372242.min.js
-[+]Links:https://c0.wp.com/c/6.4.2/wp-includes/js/jquery/ui/effect.min.js
-[+]Links:emsi.ma
-[+]Links:https://emsi.ma/wp-content/cache/wpo-minify/1694968439/assets/wpo-minify-footer-7fe308ed.min.js
-[+]Links:https://stats.wp.com/e-202349.js
-[+]Links:emsi.ma
-[+]Links:https://getwpo.com
-[+]HTTP headers: {'Connection': 'Keep-Alive', 'Keep-Alive': 'timeout=5, max=100', 'x-powered-by': 'PHP/8.1.18', 'cache-control': 'no-cache', 'wpo-cache-status': 'cached', 'last-modified': 'Fri, 08 Dec 2023 14:23:11 GMT', 'content-type': 'text/html; charset=UTF-8', 'transfer-encoding': 'chunked', 'content-encoding': 'gzip', 'vary': 'Accept-Encoding', 'date': 'Fri, 08 Dec 2023 16:39:04 GMT', 'server': 'LiteSpeed', 'alt-svc': 'h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"'}
-[+]E-mail: informations@emsi.ma
-[+]E-mail: informations@emsi.ma
-[-]Website hasn't MasterCard!
-[-]Website hasn't a VISA card!
-[-]Website hasn't a AMEX card!
-[-]Website hasn't a DISCOVER card!
-https://emsi.ma
-[+]Encoded URL: https://emsi.ma/
-[+]Allowed methods: None
-[+]Links:https://ogp.me/ns#
-[+]Links:http://gmpg.org/xfn/11
-[+]Links:https://emsi.ma/xmlrpc.php
-[+]Links:https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f)
-[+]Links:aioseo.com
-[+]Links:https://emsi.ma/
-[+]Links:https://emsi.ma/
-[+]Links:schema.org
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:fonts.googleapis.com
-[+]Links:c0.wp.com
-[+]Links:https://emsi.ma/feed/
-[+]Links:https://emsi.ma/comments/feed/
-[+]Links:https://emsi.ma/events/?ical=1
-[+]Links:https://emsi.ma/wp-content/plugins/goodlayers-core/plugins/fontawesome/fontawesome-webfont.eot#1694968439
-[+]Links:https://emsi.ma/wp-content/plugins/goodlayers-core/plugins/fontawesome/fontawesome-webfont.eot#1694968439
-[+]Links:https://emsi.ma/wp-content/plugins/goodlayers-core/plugins/fontawesome/fontawesome-webfont.woff2#1694968439
-[+]Links:https://emsi.ma/wp-content/plugins/goodlayers-core/plugins/fontawesome/fontawesome-webfont.woff#1694968439
-[+]Links:https://emsi.ma/wp-content/plugins/goodlayers-core/plugins/fontawesome/fontawesome-webfont.ttf#1694968439
-[+]Links:https://emsi.ma/wp-content/plugins/goodlayers-core/plugins/fontawesome/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular
-[+]Links:https://fonts.gstatic.com/s/abeezee/v22/esDT31xSG-6AGleN2tCUnJ8DOJKuGPLB.woff2
-[+]Links:https://fonts.gstatic.com/s/abeezee/v22/esDT31xSG-6AGleN2tCUkp8DOJKuGA.woff2
-[+]Links:https://fonts.gstatic.com/s/abeezee/v22/esDR31xSG-6AGleN2tukkJUEGpCeGQ.woff2
-[+]Links:https://fonts.gstatic.com/s/abeezee/v22/esDR31xSG-6AGleN2tWkkJUEGpA.woff2
-[+]Links:wp-block-columns.is
-[+]Links:wp-block-columns.is
-[+]Links:wp-block-post-template.is
-[+]Links:wp-block-post-template.is
-[+]Links:wp-block-post-template.is
-[+]Links:wp-block-post-template.is
-[+]Links:wp-block-columns.is
-[+]Links:wp-block-columns.is
-[+]Links:https://c0.wp.com/c/6.4.2/wp-includes/css/dist/block-library/style.min.css
-[+]Links:https://c0.wp.com/c/6.4.2/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css
-[+]Links:https://c0.wp.com/c/6.4.2/wp-includes/js/mediaelement/wp-mediaelement.min.css
-[+]Links:https://emsi.ma/wp-content/cache/wpo-minify/1694968439/assets/wpo-minify-header-702a3e8b.min.css
-[+]Links:https://c0.wp.com/p/jetpack/11.4.1/css/jetpack.css
-[+]Links:https://c0.wp.com/c/6.4.2/wp-includes/js/jquery/jquery.min.js
-[+]Links:https://c0.wp.com/c/6.4.2/wp-includes/js/jquery/jquery-migrate.min.js
-[+]Links:https://emsi.ma/wp-content/themes/kingster/js/html5.js
-[+]Links:https://emsi.ma/xmlrpc.php?rsd
-[+]Links:https://emsi.ma/
-[+]Links:https://emsi.ma/wp-json/oembed/1.0/embed?url=https%3A%2F%2Femsi.ma%2F
-[+]Links:https://emsi.ma/wp-json/oembed/1.0/embed?url=https%3A%2F%2Femsi.ma%2F&#038;format=xml
-[+]Links:https://emsi.ma
-[+]Links:https://emsi.ma/wp-json/tribe/events/v1/
-[+]Links:https://emsi.ma/wp-admin/admin-ajax.php
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/cropped-emsi_logo-32x32.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/cropped-emsi_logo-192x192.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/cropped-emsi_logo-180x180.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/cropped-emsi_logo-270x270.png
-[+]Links:e.mh
-[+]Links:e.mh
-[+]Links:e.mh
-[+]Links:e.mh
-[+]Links:e.mh
-[+]Links:e.mh
-[+]Links:https://www.googletagmanager.com/ns.html?id=GTM-WVGGCML
-[+]Links:https://emsi.ma/
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/logo.png
-[+]Links:https://emsi.ma/mot-du-president/
-[+]Links:https://emsi.ma/decouvrir-lemsi2/
-[+]Links:https://emsi.ma/nos-campus/
-[+]Links:https://emsi.ma/nos-valeurs/
-[+]Links:https://emsi.ma/mot-du-ceo/
-[+]Links:https://emsi.ma/reseau-honoris/
-[+]Links:https://emsi.ma/mission-et-valeurs/
-[+]Links:https://emsi.ma/admissions-post-bac/
-[+]Links:https://emsi.ma/admissions-paralleles/
-[+]Links:https://emsi.ma/frais-et-financement/
-[+]Links:https://emsi.ma/cursus-des-etudes/
-[+]Links:https://emsi.ma/filieres-et-programmes/
-[+]Links:https://emsi.ma/certifications-technologiques/
-[+]Links:https://emsi.ma/partenariats-a-linternational/
-[+]Links:https://emsi.ma/linfrastructure-globale/
-[+]Links:https://emsi.ma/espaces-de-partages/
-[+]Links:https://emsi.ma/nos-recruteurs/
-[+]Links:https://emsi.ma/alumni-2/
-[+]Links:https://emsi.ma/temoignages/
-[+]Links:https://emsi.ma/centre-de-carrieres/
-[+]Links:https://emsi.ma/guide-pratique-de-lemployabilite/
-[+]Links:https://emsi.ma/employabilite/honoris-21st-century-skills-certificate/
-[+]Links:https://emsi.ma/temoignages-entreprises/
-[+]Links:https://emsi.ma/temoignages-des-etudiants/
-[+]Links:https://emsi.ma/strategie-emsi-groupe/
-[+]Links:https://emsi.ma/prix-et-distinctions/
-[+]Links:https://emsi.ma/laboratoires-de-recherches/
-[+]Links:https://emsi.ma/campus-life/
-[+]Links:https://www.facebook.com/emsi.ma/
-[+]Links:https://www.linkedin.com/school/ecole-marocaine-des-sciences-de-l&#039;ing%C3%A9nieur
-[+]Links:https://www.youtube.com/channel/UC5BiOBai2N48ytbCRQWWqJw
-[+]Links:https://instagram.com/groupe.emsi?igshid=7rikpderxqla
-[+]Links:https://emsi.ma/nos-campus/
-[+]Links:https://emsi.ma/event-calendar/
-[+]Links:https://emsi.ma/candidature
-[+]Links:https://emsi.ma/
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/logo.png
-[+]Links:https://emsi.ma/mot-du-president/
-[+]Links:https://emsi.ma/decouvrir-lemsi2/
-[+]Links:https://emsi.ma/nos-campus/
-[+]Links:https://emsi.ma/nos-valeurs/
-[+]Links:https://emsi.ma/mot-du-ceo/
-[+]Links:https://emsi.ma/reseau-honoris/
-[+]Links:https://emsi.ma/mission-et-valeurs/
-[+]Links:https://emsi.ma/admissions-post-bac/
-[+]Links:https://emsi.ma/admissions-paralleles/
-[+]Links:https://emsi.ma/frais-et-financement/
-[+]Links:https://emsi.ma/cursus-des-etudes/
-[+]Links:https://emsi.ma/filieres-et-programmes/
-[+]Links:https://emsi.ma/certifications-technologiques/
-[+]Links:https://emsi.ma/partenariats-a-linternational/
-[+]Links:https://emsi.ma/linfrastructure-globale/
-[+]Links:https://emsi.ma/espaces-de-partages/
-[+]Links:https://emsi.ma/nos-recruteurs/
-[+]Links:https://emsi.ma/alumni-2/
-[+]Links:https://emsi.ma/temoignages/
-[+]Links:https://emsi.ma/centre-de-carrieres/
-[+]Links:https://emsi.ma/guide-pratique-de-lemployabilite/
-[+]Links:https://emsi.ma/employabilite/honoris-21st-century-skills-certificate/
-[+]Links:https://emsi.ma/temoignages-entreprises/
-[+]Links:https://emsi.ma/temoignages-des-etudiants/
-[+]Links:https://emsi.ma/strategie-emsi-groupe/
-[+]Links:https://emsi.ma/prix-et-distinctions/
-[+]Links:https://emsi.ma/laboratoires-de-recherches/
-[+]Links:https://emsi.ma/campus-life/
-[+]Links:emsi.ma/candidature
-[+]Links:emsi.ma/wp-content/plugins/revslider/public/assets/assets/dummy.png
-[+]Links:emsi.ma/wp-content/uploads/2023/06/21x10-slider-EMSI.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/MMPT5309-scaled.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2018/08/hp2-col-4.jpg
-[+]Links:https://emsi.ma/candidature
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1736-1-scaled-1.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1736-1-scaled-1-400x266.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1736-1-scaled-1-600x400.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1736-1-scaled-1-800x533.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1736-1-scaled-1.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1933-scaled-1.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1933-scaled-1-400x268.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1933-scaled-1-600x402.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1933-scaled-1-800x536.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1933-scaled-1.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Laboratoire1.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Laboratoire1-400x266.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Laboratoire1-600x400.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Laboratoire1-800x533.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Laboratoire1.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Rea-11.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Rea-11-400x266.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Rea-11-600x400.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Rea-11-800x533.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Rea-11.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/MMPT5559-scaled.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/MMPT5559-scaled-400x266.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/MMPT5559-scaled-600x400.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/MMPT5559-scaled-800x533.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/MMPT5559-scaled.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/3196-scaled.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2018/08/hp2-col-1.jpg
-[+]Links:https://renseignement-digital.emsi.ma/login/
-[+]Links:https://emsi.ma/wp-content/uploads/2018/08/col-icon-3.png
-[+]Links:https://emsi.ma/wp-content/uploads/2018/08/col-icon-4.png
-[+]Links:https://emsi.ma/wp-content/uploads/2018/08/col-icon-2.png
-[+]Links:https://www.leconomiste.com/flash-infos/l-emsi-primee-tokyo
-[+]Links:https://www.leconomiste.com/flash-infos/tanger-l-anef-sensibilise-aux-risques-des-feux-de-foret
-[+]Links:https://leseco.ma/business/emsi-mohamed-essaidi-notre-relation-avec-les-entreprises-est-une-relation-de-proximite.html
-[+]Links:https://fr.media7.ma/les-technologies-de-lia-et-de-realite-virtuelle-sont-en-train-de-revolutionner-les-modes-denseignement-expert
-[+]Links:https://www.leconomiste.com/flash-infos/salon-des-inventions-d-istanbul-le-maroc-s-illustre
-[+]Links:https://fr.le7tv.ma/2022/10/05/concours-international-dinvention-a-londres-quatre-medailles-pour-le-maroc/
-[+]Links:https://www.infomediaire.net/le-maroc-gagne-le-grand-prix-de-la-meilleure-invention-internationale-a-istanbul/
-[+]Links:https://www.leconomiste.com/flash-infos/l-emsi-s-illustre-au-canada?fbclid=IwAR2A6JPErM6XV4lZlkAcd6JXBsDaJXl1dsvAs1dvmsBwKMjYbLZZ8IdLj-A
-[+]Links:https://www.leconomiste.com/flash-infos/innovation-l-emsi-primee-aux-etats-unis
-[+]Links:https://www.leconomiste.com/flash-infos/l-emsi-et-sothema-scellent-un-partenariat-strategique
-[+]Links:https://telquel.ma/2021/12/09/signature-dune-convention-de-partenariat-entre-axa-services-maroc-et-lecole-marocaine-des-sciences-de-lingenieur-emsi_1746649
-[+]Links:https://www.challenge.ma/cgem-kamal-daissaoui-elu-a-la-tete-de-lenseignement-prive-155119/
-[+]Links:https://www.leconomiste.com/flash-infos/l-emsi-brille-la-silicon-valley
-[+]Links:https://northafricapost.com/41168-morocco-wins-three-gold-medals-at-euroinvent-fair.html
-[+]Links:https://2m.ma/fr/news/lemsi-decroche-2-medailles-dor-et-7-distinctions-au-salon-dinnovation-distanbul-20190923/
-[+]Links:https://www.bladi.net/maroc-salon-international-inventions-geneve,55346.html
-[+]Links:https://fr.hibapress.com/news-48660.html
-[+]Links:https://emsi.ma/les-medias-parlent-de-nous/
-[+]Links:https://emsi.ma/wp-content/uploads/2020/09/media.jpg
-[+]Links:https://www.youtube.com/watch?v=myd51ZQnTZk&#038;t=29s
-[+]Links:https://emsi.ma/wp-content/uploads/2018/08/icon-play.png
-[+]Links:https://emsi.ma/event/journees-portes-ouvertes/
-[+]Links:https://emsi.ma/event/jpo-2/
-[+]Links:https://emsi.ma/wp-content/uploads/2022/06/35.jpg
-[+]Links:https://www.youtube.com/watch?v=42LgnruZWd8
-[+]Links:https://emsi.ma/wp-content/uploads/2018/08/icon-play.png
-[+]Links:https://www.facebook.com/emsi.ma/
-[+]Links:https://www.linkedin.com/school/ecole-marocaine-des-sciences-de-l&#039;ing%C3%A9nieur
-[+]Links:https://www.youtube.com/channel/UC5BiOBai2N48ytbCRQWWqJw
-[+]Links:https://instagram.com/groupe.emsi?igshid=7rikpderxqla
-[+]Links:https://emsi.ma/ingenierie-informatique-et-reseaux/
-[+]Links:https://emsi.ma/ingenierie-financiere-et-audit/
-[+]Links:https://emsi.ma/genie-civil-batiments-et-travaux-publics-btp/
-[+]Links:https://emsi.ma/genie-industriel/
-[+]Links:https://emsi.ma/ingenierie-des-automatismes-et-informatique-industrielle/
-[+]Links:https://emsi.ma/?page_id=11169
-[+]Links:https://emsi.ma/admissions-post-bac/
-[+]Links:https://emsi.ma/admissions-paralleles/
-[+]Links:https://emsi.ma/frais-et-financement/
-[+]Links:https://emsi.ma/nos-campus/
-[+]Links:https://emsi.ma/charte-de-protection-des-donnees-a-caractere-personnel/
-[+]Links:https://fonts.googleapis.com/css?family=Roboto:400&display=swap
-[+]Links:https://emsi.ma/wp-content/cache/wpo-minify/1694968439/assets/wpo-minify-footer-1fb2110e.min.css
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:https://emsi.ma/wp-content/cache/wpo-minify/1694968439/assets/wpo-minify-footer-1a372242.min.js
-[+]Links:https://c0.wp.com/c/6.4.2/wp-includes/js/jquery/ui/effect.min.js
-[+]Links:emsi.ma
-[+]Links:https://emsi.ma/wp-content/cache/wpo-minify/1694968439/assets/wpo-minify-footer-7fe308ed.min.js
-[+]Links:https://stats.wp.com/e-202349.js
-[+]Links:emsi.ma
-[+]Links:https://getwpo.com
-[+]HTTP headers: {'Connection': 'Keep-Alive', 'Keep-Alive': 'timeout=5, max=100', 'x-powered-by': 'PHP/8.1.18', 'cache-control': 'no-cache', 'wpo-cache-status': 'cached', 'last-modified': 'Fri, 08 Dec 2023 14:23:11 GMT', 'content-type': 'text/html; charset=UTF-8', 'transfer-encoding': 'chunked', 'content-encoding': 'gzip', 'vary': 'Accept-Encoding', 'date': 'Fri, 08 Dec 2023 16:40:24 GMT', 'server': 'LiteSpeed', 'alt-svc': 'h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"'}
-[+]E-mail: informations@emsi.ma
-[+]E-mail: informations@emsi.ma
-[-]Website hasn't MasterCard!
-[-]Website hasn't a VISA card!
-[-]Website hasn't a AMEX card!
-[-]Website hasn't a DISCOVER card!
-https://emsi.ma
-[+]Encoded URL: https://emsi.ma/
-[+]Allowed methods: None
-[+]Links:https://ogp.me/ns#
-[+]Links:http://gmpg.org/xfn/11
-[+]Links:https://emsi.ma/xmlrpc.php
-[+]Links:https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f)
-[+]Links:aioseo.com
-[+]Links:https://emsi.ma/
-[+]Links:https://emsi.ma/
-[+]Links:schema.org
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:fonts.googleapis.com
-[+]Links:c0.wp.com
-[+]Links:https://emsi.ma/feed/
-[+]Links:https://emsi.ma/comments/feed/
-[+]Links:https://emsi.ma/events/?ical=1
-[+]Links:https://emsi.ma/wp-content/plugins/goodlayers-core/plugins/fontawesome/fontawesome-webfont.eot#1694968439
-[+]Links:https://emsi.ma/wp-content/plugins/goodlayers-core/plugins/fontawesome/fontawesome-webfont.eot#1694968439
-[+]Links:https://emsi.ma/wp-content/plugins/goodlayers-core/plugins/fontawesome/fontawesome-webfont.woff2#1694968439
-[+]Links:https://emsi.ma/wp-content/plugins/goodlayers-core/plugins/fontawesome/fontawesome-webfont.woff#1694968439
-[+]Links:https://emsi.ma/wp-content/plugins/goodlayers-core/plugins/fontawesome/fontawesome-webfont.ttf#1694968439
-[+]Links:https://emsi.ma/wp-content/plugins/goodlayers-core/plugins/fontawesome/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular
-[+]Links:https://fonts.gstatic.com/s/abeezee/v22/esDT31xSG-6AGleN2tCUnJ8DOJKuGPLB.woff2
-[+]Links:https://fonts.gstatic.com/s/abeezee/v22/esDT31xSG-6AGleN2tCUkp8DOJKuGA.woff2
-[+]Links:https://fonts.gstatic.com/s/abeezee/v22/esDR31xSG-6AGleN2tukkJUEGpCeGQ.woff2
-[+]Links:https://fonts.gstatic.com/s/abeezee/v22/esDR31xSG-6AGleN2tWkkJUEGpA.woff2
-[+]Links:wp-block-columns.is
-[+]Links:wp-block-columns.is
-[+]Links:wp-block-post-template.is
-[+]Links:wp-block-post-template.is
-[+]Links:wp-block-post-template.is
-[+]Links:wp-block-post-template.is
-[+]Links:wp-block-columns.is
-[+]Links:wp-block-columns.is
-[+]Links:https://c0.wp.com/c/6.4.2/wp-includes/css/dist/block-library/style.min.css
-[+]Links:https://c0.wp.com/c/6.4.2/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css
-[+]Links:https://c0.wp.com/c/6.4.2/wp-includes/js/mediaelement/wp-mediaelement.min.css
-[+]Links:https://emsi.ma/wp-content/cache/wpo-minify/1694968439/assets/wpo-minify-header-702a3e8b.min.css
-[+]Links:https://c0.wp.com/p/jetpack/11.4.1/css/jetpack.css
-[+]Links:https://c0.wp.com/c/6.4.2/wp-includes/js/jquery/jquery.min.js
-[+]Links:https://c0.wp.com/c/6.4.2/wp-includes/js/jquery/jquery-migrate.min.js
-[+]Links:https://emsi.ma/wp-content/themes/kingster/js/html5.js
-[+]Links:https://emsi.ma/xmlrpc.php?rsd
-[+]Links:https://emsi.ma/
-[+]Links:https://emsi.ma/wp-json/oembed/1.0/embed?url=https%3A%2F%2Femsi.ma%2F
-[+]Links:https://emsi.ma/wp-json/oembed/1.0/embed?url=https%3A%2F%2Femsi.ma%2F&#038;format=xml
-[+]Links:https://emsi.ma
-[+]Links:https://emsi.ma/wp-json/tribe/events/v1/
-[+]Links:https://emsi.ma/wp-admin/admin-ajax.php
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/cropped-emsi_logo-32x32.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/cropped-emsi_logo-192x192.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/cropped-emsi_logo-180x180.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/cropped-emsi_logo-270x270.png
-[+]Links:e.mh
-[+]Links:e.mh
-[+]Links:e.mh
-[+]Links:e.mh
-[+]Links:e.mh
-[+]Links:e.mh
-[+]Links:https://www.googletagmanager.com/ns.html?id=GTM-WVGGCML
-[+]Links:https://emsi.ma/
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/logo.png
-[+]Links:https://emsi.ma/mot-du-president/
-[+]Links:https://emsi.ma/decouvrir-lemsi2/
-[+]Links:https://emsi.ma/nos-campus/
-[+]Links:https://emsi.ma/nos-valeurs/
-[+]Links:https://emsi.ma/mot-du-ceo/
-[+]Links:https://emsi.ma/reseau-honoris/
-[+]Links:https://emsi.ma/mission-et-valeurs/
-[+]Links:https://emsi.ma/admissions-post-bac/
-[+]Links:https://emsi.ma/admissions-paralleles/
-[+]Links:https://emsi.ma/frais-et-financement/
-[+]Links:https://emsi.ma/cursus-des-etudes/
-[+]Links:https://emsi.ma/filieres-et-programmes/
-[+]Links:https://emsi.ma/certifications-technologiques/
-[+]Links:https://emsi.ma/partenariats-a-linternational/
-[+]Links:https://emsi.ma/linfrastructure-globale/
-[+]Links:https://emsi.ma/espaces-de-partages/
-[+]Links:https://emsi.ma/nos-recruteurs/
-[+]Links:https://emsi.ma/alumni-2/
-[+]Links:https://emsi.ma/temoignages/
-[+]Links:https://emsi.ma/centre-de-carrieres/
-[+]Links:https://emsi.ma/guide-pratique-de-lemployabilite/
-[+]Links:https://emsi.ma/employabilite/honoris-21st-century-skills-certificate/
-[+]Links:https://emsi.ma/temoignages-entreprises/
-[+]Links:https://emsi.ma/temoignages-des-etudiants/
-[+]Links:https://emsi.ma/strategie-emsi-groupe/
-[+]Links:https://emsi.ma/prix-et-distinctions/
-[+]Links:https://emsi.ma/laboratoires-de-recherches/
-[+]Links:https://emsi.ma/campus-life/
-[+]Links:https://www.facebook.com/emsi.ma/
-[+]Links:https://www.linkedin.com/school/ecole-marocaine-des-sciences-de-l&#039;ing%C3%A9nieur
-[+]Links:https://www.youtube.com/channel/UC5BiOBai2N48ytbCRQWWqJw
-[+]Links:https://instagram.com/groupe.emsi?igshid=7rikpderxqla
-[+]Links:https://emsi.ma/nos-campus/
-[+]Links:https://emsi.ma/event-calendar/
-[+]Links:https://emsi.ma/candidature
-[+]Links:https://emsi.ma/
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/logo.png
-[+]Links:https://emsi.ma/mot-du-president/
-[+]Links:https://emsi.ma/decouvrir-lemsi2/
-[+]Links:https://emsi.ma/nos-campus/
-[+]Links:https://emsi.ma/nos-valeurs/
-[+]Links:https://emsi.ma/mot-du-ceo/
-[+]Links:https://emsi.ma/reseau-honoris/
-[+]Links:https://emsi.ma/mission-et-valeurs/
-[+]Links:https://emsi.ma/admissions-post-bac/
-[+]Links:https://emsi.ma/admissions-paralleles/
-[+]Links:https://emsi.ma/frais-et-financement/
-[+]Links:https://emsi.ma/cursus-des-etudes/
-[+]Links:https://emsi.ma/filieres-et-programmes/
-[+]Links:https://emsi.ma/certifications-technologiques/
-[+]Links:https://emsi.ma/partenariats-a-linternational/
-[+]Links:https://emsi.ma/linfrastructure-globale/
-[+]Links:https://emsi.ma/espaces-de-partages/
-[+]Links:https://emsi.ma/nos-recruteurs/
-[+]Links:https://emsi.ma/alumni-2/
-[+]Links:https://emsi.ma/temoignages/
-[+]Links:https://emsi.ma/centre-de-carrieres/
-[+]Links:https://emsi.ma/guide-pratique-de-lemployabilite/
-[+]Links:https://emsi.ma/employabilite/honoris-21st-century-skills-certificate/
-[+]Links:https://emsi.ma/temoignages-entreprises/
-[+]Links:https://emsi.ma/temoignages-des-etudiants/
-[+]Links:https://emsi.ma/strategie-emsi-groupe/
-[+]Links:https://emsi.ma/prix-et-distinctions/
-[+]Links:https://emsi.ma/laboratoires-de-recherches/
-[+]Links:https://emsi.ma/campus-life/
-[+]Links:emsi.ma/candidature
-[+]Links:emsi.ma/wp-content/plugins/revslider/public/assets/assets/dummy.png
-[+]Links:emsi.ma/wp-content/uploads/2023/06/21x10-slider-EMSI.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/MMPT5309-scaled.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2018/08/hp2-col-4.jpg
-[+]Links:https://emsi.ma/candidature
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1736-1-scaled-1.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1736-1-scaled-1-400x266.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1736-1-scaled-1-600x400.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1736-1-scaled-1-800x533.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1736-1-scaled-1.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1933-scaled-1.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1933-scaled-1-400x268.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1933-scaled-1-600x402.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1933-scaled-1-800x536.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1933-scaled-1.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Laboratoire1.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Laboratoire1-400x266.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Laboratoire1-600x400.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Laboratoire1-800x533.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Laboratoire1.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Rea-11.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Rea-11-400x266.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Rea-11-600x400.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Rea-11-800x533.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Rea-11.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/MMPT5559-scaled.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/MMPT5559-scaled-400x266.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/MMPT5559-scaled-600x400.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/MMPT5559-scaled-800x533.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/MMPT5559-scaled.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/3196-scaled.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2018/08/hp2-col-1.jpg
-[+]Links:https://renseignement-digital.emsi.ma/login/
-[+]Links:https://emsi.ma/wp-content/uploads/2018/08/col-icon-3.png
-[+]Links:https://emsi.ma/wp-content/uploads/2018/08/col-icon-4.png
-[+]Links:https://emsi.ma/wp-content/uploads/2018/08/col-icon-2.png
-[+]Links:https://www.leconomiste.com/flash-infos/l-emsi-primee-tokyo
-[+]Links:https://www.leconomiste.com/flash-infos/tanger-l-anef-sensibilise-aux-risques-des-feux-de-foret
-[+]Links:https://leseco.ma/business/emsi-mohamed-essaidi-notre-relation-avec-les-entreprises-est-une-relation-de-proximite.html
-[+]Links:https://fr.media7.ma/les-technologies-de-lia-et-de-realite-virtuelle-sont-en-train-de-revolutionner-les-modes-denseignement-expert
-[+]Links:https://www.leconomiste.com/flash-infos/salon-des-inventions-d-istanbul-le-maroc-s-illustre
-[+]Links:https://fr.le7tv.ma/2022/10/05/concours-international-dinvention-a-londres-quatre-medailles-pour-le-maroc/
-[+]Links:https://www.infomediaire.net/le-maroc-gagne-le-grand-prix-de-la-meilleure-invention-internationale-a-istanbul/
-[+]Links:https://www.leconomiste.com/flash-infos/l-emsi-s-illustre-au-canada?fbclid=IwAR2A6JPErM6XV4lZlkAcd6JXBsDaJXl1dsvAs1dvmsBwKMjYbLZZ8IdLj-A
-[+]Links:https://www.leconomiste.com/flash-infos/innovation-l-emsi-primee-aux-etats-unis
-[+]Links:https://www.leconomiste.com/flash-infos/l-emsi-et-sothema-scellent-un-partenariat-strategique
-[+]Links:https://telquel.ma/2021/12/09/signature-dune-convention-de-partenariat-entre-axa-services-maroc-et-lecole-marocaine-des-sciences-de-lingenieur-emsi_1746649
-[+]Links:https://www.challenge.ma/cgem-kamal-daissaoui-elu-a-la-tete-de-lenseignement-prive-155119/
-[+]Links:https://www.leconomiste.com/flash-infos/l-emsi-brille-la-silicon-valley
-[+]Links:https://northafricapost.com/41168-morocco-wins-three-gold-medals-at-euroinvent-fair.html
-[+]Links:https://2m.ma/fr/news/lemsi-decroche-2-medailles-dor-et-7-distinctions-au-salon-dinnovation-distanbul-20190923/
-[+]Links:https://www.bladi.net/maroc-salon-international-inventions-geneve,55346.html
-[+]Links:https://fr.hibapress.com/news-48660.html
-[+]Links:https://emsi.ma/les-medias-parlent-de-nous/
-[+]Links:https://emsi.ma/wp-content/uploads/2020/09/media.jpg
-[+]Links:https://www.youtube.com/watch?v=myd51ZQnTZk&#038;t=29s
-[+]Links:https://emsi.ma/wp-content/uploads/2018/08/icon-play.png
-[+]Links:https://emsi.ma/event/journees-portes-ouvertes/
-[+]Links:https://emsi.ma/event/jpo-2/
-[+]Links:https://emsi.ma/wp-content/uploads/2022/06/35.jpg
-[+]Links:https://www.youtube.com/watch?v=42LgnruZWd8
-[+]Links:https://emsi.ma/wp-content/uploads/2018/08/icon-play.png
-[+]Links:https://www.facebook.com/emsi.ma/
-[+]Links:https://www.linkedin.com/school/ecole-marocaine-des-sciences-de-l&#039;ing%C3%A9nieur
-[+]Links:https://www.youtube.com/channel/UC5BiOBai2N48ytbCRQWWqJw
-[+]Links:https://instagram.com/groupe.emsi?igshid=7rikpderxqla
-[+]Links:https://emsi.ma/ingenierie-informatique-et-reseaux/
-[+]Links:https://emsi.ma/ingenierie-financiere-et-audit/
-[+]Links:https://emsi.ma/genie-civil-batiments-et-travaux-publics-btp/
-[+]Links:https://emsi.ma/genie-industriel/
-[+]Links:https://emsi.ma/ingenierie-des-automatismes-et-informatique-industrielle/
-[+]Links:https://emsi.ma/?page_id=11169
-[+]Links:https://emsi.ma/admissions-post-bac/
-[+]Links:https://emsi.ma/admissions-paralleles/
-[+]Links:https://emsi.ma/frais-et-financement/
-[+]Links:https://emsi.ma/nos-campus/
-[+]Links:https://emsi.ma/charte-de-protection-des-donnees-a-caractere-personnel/
-[+]Links:https://fonts.googleapis.com/css?family=Roboto:400&display=swap
-[+]Links:https://emsi.ma/wp-content/cache/wpo-minify/1694968439/assets/wpo-minify-footer-1fb2110e.min.css
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:https://emsi.ma/wp-content/cache/wpo-minify/1694968439/assets/wpo-minify-footer-1a372242.min.js
-[+]Links:https://c0.wp.com/c/6.4.2/wp-includes/js/jquery/ui/effect.min.js
-[+]Links:emsi.ma
-[+]Links:https://emsi.ma/wp-content/cache/wpo-minify/1694968439/assets/wpo-minify-footer-7fe308ed.min.js
-[+]Links:https://stats.wp.com/e-202349.js
-[+]Links:emsi.ma
-[+]Links:https://getwpo.com
-[+]HTTP headers: {'Connection': 'Keep-Alive', 'Keep-Alive': 'timeout=5, max=100', 'x-powered-by': 'PHP/8.1.18', 'cache-control': 'no-cache', 'wpo-cache-status': 'cached', 'last-modified': 'Fri, 08 Dec 2023 14:23:11 GMT', 'content-type': 'text/html; charset=UTF-8', 'transfer-encoding': 'chunked', 'content-encoding': 'gzip', 'vary': 'Accept-Encoding', 'date': 'Fri, 08 Dec 2023 16:44:34 GMT', 'server': 'LiteSpeed', 'alt-svc': 'h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"'}
-[+]E-mail: informations@emsi.ma
-[+]E-mail: informations@emsi.ma
-[-]Website hasn't MasterCard!
-[-]Website hasn't a VISA card!
-[-]Website hasn't a AMEX card!
-[-]Website hasn't a DISCOVER card!
-[-]Sqli isn't available
-https://emsi.ma
-[+]Encoded URL: https://emsi.ma/
-[+]Allowed methods: None
-[+]Links:https://ogp.me/ns#
-[+]Links:http://gmpg.org/xfn/11
-[+]Links:https://emsi.ma/xmlrpc.php
-[+]Links:https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f)
-[+]Links:aioseo.com
-[+]Links:https://emsi.ma/
-[+]Links:https://emsi.ma/
-[+]Links:schema.org
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:fonts.googleapis.com
-[+]Links:c0.wp.com
-[+]Links:https://emsi.ma/feed/
-[+]Links:https://emsi.ma/comments/feed/
-[+]Links:https://emsi.ma/events/?ical=1
-[+]Links:https://emsi.ma/wp-content/plugins/goodlayers-core/plugins/fontawesome/fontawesome-webfont.eot#1694968439
-[+]Links:https://emsi.ma/wp-content/plugins/goodlayers-core/plugins/fontawesome/fontawesome-webfont.eot#1694968439
-[+]Links:https://emsi.ma/wp-content/plugins/goodlayers-core/plugins/fontawesome/fontawesome-webfont.woff2#1694968439
-[+]Links:https://emsi.ma/wp-content/plugins/goodlayers-core/plugins/fontawesome/fontawesome-webfont.woff#1694968439
-[+]Links:https://emsi.ma/wp-content/plugins/goodlayers-core/plugins/fontawesome/fontawesome-webfont.ttf#1694968439
-[+]Links:https://emsi.ma/wp-content/plugins/goodlayers-core/plugins/fontawesome/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular
-[+]Links:https://fonts.gstatic.com/s/abeezee/v22/esDT31xSG-6AGleN2tCUnJ8DOJKuGPLB.woff2
-[+]Links:https://fonts.gstatic.com/s/abeezee/v22/esDT31xSG-6AGleN2tCUkp8DOJKuGA.woff2
-[+]Links:https://fonts.gstatic.com/s/abeezee/v22/esDR31xSG-6AGleN2tukkJUEGpCeGQ.woff2
-[+]Links:https://fonts.gstatic.com/s/abeezee/v22/esDR31xSG-6AGleN2tWkkJUEGpA.woff2
-[+]Links:wp-block-columns.is
-[+]Links:wp-block-columns.is
-[+]Links:wp-block-post-template.is
-[+]Links:wp-block-post-template.is
-[+]Links:wp-block-post-template.is
-[+]Links:wp-block-post-template.is
-[+]Links:wp-block-columns.is
-[+]Links:wp-block-columns.is
-[+]Links:https://c0.wp.com/c/6.4.2/wp-includes/css/dist/block-library/style.min.css
-[+]Links:https://c0.wp.com/c/6.4.2/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css
-[+]Links:https://c0.wp.com/c/6.4.2/wp-includes/js/mediaelement/wp-mediaelement.min.css
-[+]Links:https://emsi.ma/wp-content/cache/wpo-minify/1694968439/assets/wpo-minify-header-702a3e8b.min.css
-[+]Links:https://c0.wp.com/p/jetpack/11.4.1/css/jetpack.css
-[+]Links:https://c0.wp.com/c/6.4.2/wp-includes/js/jquery/jquery.min.js
-[+]Links:https://c0.wp.com/c/6.4.2/wp-includes/js/jquery/jquery-migrate.min.js
-[+]Links:https://emsi.ma/wp-content/themes/kingster/js/html5.js
-[+]Links:https://emsi.ma/xmlrpc.php?rsd
-[+]Links:https://emsi.ma/
-[+]Links:https://emsi.ma/wp-json/oembed/1.0/embed?url=https%3A%2F%2Femsi.ma%2F
-[+]Links:https://emsi.ma/wp-json/oembed/1.0/embed?url=https%3A%2F%2Femsi.ma%2F&#038;format=xml
-[+]Links:https://emsi.ma
-[+]Links:https://emsi.ma/wp-json/tribe/events/v1/
-[+]Links:https://emsi.ma/wp-admin/admin-ajax.php
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/cropped-emsi_logo-32x32.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/cropped-emsi_logo-192x192.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/cropped-emsi_logo-180x180.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/cropped-emsi_logo-270x270.png
-[+]Links:e.mh
-[+]Links:e.mh
-[+]Links:e.mh
-[+]Links:e.mh
-[+]Links:e.mh
-[+]Links:e.mh
-[+]Links:https://www.googletagmanager.com/ns.html?id=GTM-WVGGCML
-[+]Links:https://emsi.ma/
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/logo.png
-[+]Links:https://emsi.ma/mot-du-president/
-[+]Links:https://emsi.ma/decouvrir-lemsi2/
-[+]Links:https://emsi.ma/nos-campus/
-[+]Links:https://emsi.ma/nos-valeurs/
-[+]Links:https://emsi.ma/mot-du-ceo/
-[+]Links:https://emsi.ma/reseau-honoris/
-[+]Links:https://emsi.ma/mission-et-valeurs/
-[+]Links:https://emsi.ma/admissions-post-bac/
-[+]Links:https://emsi.ma/admissions-paralleles/
-[+]Links:https://emsi.ma/frais-et-financement/
-[+]Links:https://emsi.ma/cursus-des-etudes/
-[+]Links:https://emsi.ma/filieres-et-programmes/
-[+]Links:https://emsi.ma/certifications-technologiques/
-[+]Links:https://emsi.ma/partenariats-a-linternational/
-[+]Links:https://emsi.ma/linfrastructure-globale/
-[+]Links:https://emsi.ma/espaces-de-partages/
-[+]Links:https://emsi.ma/nos-recruteurs/
-[+]Links:https://emsi.ma/alumni-2/
-[+]Links:https://emsi.ma/temoignages/
-[+]Links:https://emsi.ma/centre-de-carrieres/
-[+]Links:https://emsi.ma/guide-pratique-de-lemployabilite/
-[+]Links:https://emsi.ma/employabilite/honoris-21st-century-skills-certificate/
-[+]Links:https://emsi.ma/temoignages-entreprises/
-[+]Links:https://emsi.ma/temoignages-des-etudiants/
-[+]Links:https://emsi.ma/strategie-emsi-groupe/
-[+]Links:https://emsi.ma/prix-et-distinctions/
-[+]Links:https://emsi.ma/laboratoires-de-recherches/
-[+]Links:https://emsi.ma/campus-life/
-[+]Links:https://www.facebook.com/emsi.ma/
-[+]Links:https://www.linkedin.com/school/ecole-marocaine-des-sciences-de-l&#039;ing%C3%A9nieur
-[+]Links:https://www.youtube.com/channel/UC5BiOBai2N48ytbCRQWWqJw
-[+]Links:https://instagram.com/groupe.emsi?igshid=7rikpderxqla
-[+]Links:https://emsi.ma/nos-campus/
-[+]Links:https://emsi.ma/event-calendar/
-[+]Links:https://emsi.ma/candidature
-[+]Links:https://emsi.ma/
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/logo.png
-[+]Links:https://emsi.ma/mot-du-president/
-[+]Links:https://emsi.ma/decouvrir-lemsi2/
-[+]Links:https://emsi.ma/nos-campus/
-[+]Links:https://emsi.ma/nos-valeurs/
-[+]Links:https://emsi.ma/mot-du-ceo/
-[+]Links:https://emsi.ma/reseau-honoris/
-[+]Links:https://emsi.ma/mission-et-valeurs/
-[+]Links:https://emsi.ma/admissions-post-bac/
-[+]Links:https://emsi.ma/admissions-paralleles/
-[+]Links:https://emsi.ma/frais-et-financement/
-[+]Links:https://emsi.ma/cursus-des-etudes/
-[+]Links:https://emsi.ma/filieres-et-programmes/
-[+]Links:https://emsi.ma/certifications-technologiques/
-[+]Links:https://emsi.ma/partenariats-a-linternational/
-[+]Links:https://emsi.ma/linfrastructure-globale/
-[+]Links:https://emsi.ma/espaces-de-partages/
-[+]Links:https://emsi.ma/nos-recruteurs/
-[+]Links:https://emsi.ma/alumni-2/
-[+]Links:https://emsi.ma/temoignages/
-[+]Links:https://emsi.ma/centre-de-carrieres/
-[+]Links:https://emsi.ma/guide-pratique-de-lemployabilite/
-[+]Links:https://emsi.ma/employabilite/honoris-21st-century-skills-certificate/
-[+]Links:https://emsi.ma/temoignages-entreprises/
-[+]Links:https://emsi.ma/temoignages-des-etudiants/
-[+]Links:https://emsi.ma/strategie-emsi-groupe/
-[+]Links:https://emsi.ma/prix-et-distinctions/
-[+]Links:https://emsi.ma/laboratoires-de-recherches/
-[+]Links:https://emsi.ma/campus-life/
-[+]Links:emsi.ma/candidature
-[+]Links:emsi.ma/wp-content/plugins/revslider/public/assets/assets/dummy.png
-[+]Links:emsi.ma/wp-content/uploads/2023/06/21x10-slider-EMSI.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/MMPT5309-scaled.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2018/08/hp2-col-4.jpg
-[+]Links:https://emsi.ma/candidature
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1736-1-scaled-1.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1736-1-scaled-1-400x266.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1736-1-scaled-1-600x400.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1736-1-scaled-1-800x533.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1736-1-scaled-1.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1933-scaled-1.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1933-scaled-1-400x268.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1933-scaled-1-600x402.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1933-scaled-1-800x536.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/2L6A1933-scaled-1.png
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Laboratoire1.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Laboratoire1-400x266.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Laboratoire1-600x400.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Laboratoire1-800x533.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Laboratoire1.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Rea-11.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Rea-11-400x266.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Rea-11-600x400.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Rea-11-800x533.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/Rea-11.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/MMPT5559-scaled.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/MMPT5559-scaled-400x266.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/MMPT5559-scaled-600x400.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/MMPT5559-scaled-800x533.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/MMPT5559-scaled.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2020/07/3196-scaled.jpg
-[+]Links:https://emsi.ma/wp-content/uploads/2018/08/hp2-col-1.jpg
-[+]Links:https://renseignement-digital.emsi.ma/login/
-[+]Links:https://emsi.ma/wp-content/uploads/2018/08/col-icon-3.png
-[+]Links:https://emsi.ma/wp-content/uploads/2018/08/col-icon-4.png
-[+]Links:https://emsi.ma/wp-content/uploads/2018/08/col-icon-2.png
-[+]Links:https://www.leconomiste.com/flash-infos/l-emsi-primee-tokyo
-[+]Links:https://www.leconomiste.com/flash-infos/tanger-l-anef-sensibilise-aux-risques-des-feux-de-foret
-[+]Links:https://leseco.ma/business/emsi-mohamed-essaidi-notre-relation-avec-les-entreprises-est-une-relation-de-proximite.html
-[+]Links:https://fr.media7.ma/les-technologies-de-lia-et-de-realite-virtuelle-sont-en-train-de-revolutionner-les-modes-denseignement-expert
-[+]Links:https://www.leconomiste.com/flash-infos/salon-des-inventions-d-istanbul-le-maroc-s-illustre
-[+]Links:https://fr.le7tv.ma/2022/10/05/concours-international-dinvention-a-londres-quatre-medailles-pour-le-maroc/
-[+]Links:https://www.infomediaire.net/le-maroc-gagne-le-grand-prix-de-la-meilleure-invention-internationale-a-istanbul/
-[+]Links:https://www.leconomiste.com/flash-infos/l-emsi-s-illustre-au-canada?fbclid=IwAR2A6JPErM6XV4lZlkAcd6JXBsDaJXl1dsvAs1dvmsBwKMjYbLZZ8IdLj-A
-[+]Links:https://www.leconomiste.com/flash-infos/innovation-l-emsi-primee-aux-etats-unis
-[+]Links:https://www.leconomiste.com/flash-infos/l-emsi-et-sothema-scellent-un-partenariat-strategique
-[+]Links:https://telquel.ma/2021/12/09/signature-dune-convention-de-partenariat-entre-axa-services-maroc-et-lecole-marocaine-des-sciences-de-lingenieur-emsi_1746649
-[+]Links:https://www.challenge.ma/cgem-kamal-daissaoui-elu-a-la-tete-de-lenseignement-prive-155119/
-[+]Links:https://www.leconomiste.com/flash-infos/l-emsi-brille-la-silicon-valley
-[+]Links:https://northafricapost.com/41168-morocco-wins-three-gold-medals-at-euroinvent-fair.html
-[+]Links:https://2m.ma/fr/news/lemsi-decroche-2-medailles-dor-et-7-distinctions-au-salon-dinnovation-distanbul-20190923/
-[+]Links:https://www.bladi.net/maroc-salon-international-inventions-geneve,55346.html
-[+]Links:https://fr.hibapress.com/news-48660.html
-[+]Links:https://emsi.ma/les-medias-parlent-de-nous/
-[+]Links:https://emsi.ma/wp-content/uploads/2020/09/media.jpg
-[+]Links:https://www.youtube.com/watch?v=myd51ZQnTZk&#038;t=29s
-[+]Links:https://emsi.ma/wp-content/uploads/2018/08/icon-play.png
-[+]Links:https://emsi.ma/event/journees-portes-ouvertes/
-[+]Links:https://emsi.ma/event/jpo-2/
-[+]Links:https://emsi.ma/wp-content/uploads/2022/06/35.jpg
-[+]Links:https://www.youtube.com/watch?v=42LgnruZWd8
-[+]Links:https://emsi.ma/wp-content/uploads/2018/08/icon-play.png
-[+]Links:https://www.facebook.com/emsi.ma/
-[+]Links:https://www.linkedin.com/school/ecole-marocaine-des-sciences-de-l&#039;ing%C3%A9nieur
-[+]Links:https://www.youtube.com/channel/UC5BiOBai2N48ytbCRQWWqJw
-[+]Links:https://instagram.com/groupe.emsi?igshid=7rikpderxqla
-[+]Links:https://emsi.ma/ingenierie-informatique-et-reseaux/
-[+]Links:https://emsi.ma/ingenierie-financiere-et-audit/
-[+]Links:https://emsi.ma/genie-civil-batiments-et-travaux-publics-btp/
-[+]Links:https://emsi.ma/genie-industriel/
-[+]Links:https://emsi.ma/ingenierie-des-automatismes-et-informatique-industrielle/
-[+]Links:https://emsi.ma/?page_id=11169
-[+]Links:https://emsi.ma/admissions-post-bac/
-[+]Links:https://emsi.ma/admissions-paralleles/
-[+]Links:https://emsi.ma/frais-et-financement/
-[+]Links:https://emsi.ma/nos-campus/
-[+]Links:https://emsi.ma/charte-de-protection-des-donnees-a-caractere-personnel/
-[+]Links:https://fonts.googleapis.com/css?family=Roboto:400&display=swap
-[+]Links:https://emsi.ma/wp-content/cache/wpo-minify/1694968439/assets/wpo-minify-footer-1fb2110e.min.css
-[+]Links:emsi.ma
-[+]Links:emsi.ma
-[+]Links:https://emsi.ma/wp-content/cache/wpo-minify/1694968439/assets/wpo-minify-footer-1a372242.min.js
-[+]Links:https://c0.wp.com/c/6.4.2/wp-includes/js/jquery/ui/effect.min.js
-[+]Links:emsi.ma
-[+]Links:https://emsi.ma/wp-content/cache/wpo-minify/1694968439/assets/wpo-minify-footer-7fe308ed.min.js
-[+]Links:https://stats.wp.com/e-202349.js
-[+]Links:emsi.ma
-[+]Links:https://getwpo.com
-[+]HTTP headers: {'Connection': 'Keep-Alive', 'Keep-Alive': 'timeout=5, max=100', 'x-powered-by': 'PHP/8.1.18', 'cache-control': 'no-cache', 'wpo-cache-status': 'cached', 'last-modified': 'Fri, 08 Dec 2023 14:23:11 GMT', 'content-type': 'text/html; charset=UTF-8', 'transfer-encoding': 'chunked', 'content-encoding': 'gzip', 'vary': 'Accept-Encoding', 'date': 'Fri, 08 Dec 2023 16:46:33 GMT', 'server': 'LiteSpeed', 'alt-svc': 'h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"'}
-[+]E-mail: informations@emsi.ma
-[+]E-mail: informations@emsi.ma
-[-]Website hasn't MasterCard!
-[-]Website hasn't a VISA card!
-[-]Website hasn't a AMEX card!
-[-]Website hasn't a DISCOVER card!
-[-]Sqli isn't available
-[-]XSS isn't available
+emsi.ma
+[+]URL: https://emsi.ma 
+==========
+[+]Encoded URL:  https://emsi.ma/
+[+]Allowed methods:  None
+Error in certificateInformation: [Errno 11001] getaddrinfo failed
+[+]Links: https://ogp.me/ns#
+[+]Links: http://gmpg.org/xfn/11
+[+]Links: https://emsi.ma/xmlrpc.php
+[+]Links: https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f)
+[+]Links: aioseo.com
+[+]Links: https://emsi.ma/
+[+]Links: https://emsi.ma/
+[+]Links: schema.org
+[+]Links: emsi.ma
+[+]Links: emsi.ma
+[+]Links: emsi.ma
+[+]Links: emsi.ma
+[+]Links: emsi.ma
+[+]Links: emsi.ma
+[+]Links: emsi.ma
+[+]Links: emsi.ma
+[+]Links: emsi.ma
+[+]Links: emsi.ma
+[+]Links: emsi.ma
+[+]Links: emsi.ma
+[+]Links: emsi.ma
+[+]Links: emsi.ma
+[+]Links: emsi.ma
+[+]Links: emsi.ma
+[+]Links: emsi.ma
+[+]Links: fonts.googleapis.com
+[+]Links: c0.wp.com
+[+]Links: https://emsi.ma/feed/
+[+]Links: https://emsi.ma/comments/feed/
+[+]Links: https://emsi.ma/events/?ical=1
+[+]Links: https://emsi.ma/wp-content/plugins/goodlayers-core/plugins/fontawesome/fontawesome-webfont.eot#1694968439
+[+]Links: https://emsi.ma/wp-content/plugins/goodlayers-core/plugins/fontawesome/fontawesome-webfont.eot#1694968439
+[+]Links: https://emsi.ma/wp-content/plugins/goodlayers-core/plugins/fontawesome/fontawesome-webfont.woff2#1694968439
+[+]Links: https://emsi.ma/wp-content/plugins/goodlayers-core/plugins/fontawesome/fontawesome-webfont.woff#1694968439
+[+]Links: https://emsi.ma/wp-content/plugins/goodlayers-core/plugins/fontawesome/fontawesome-webfont.ttf#1694968439
+[+]Links: https://emsi.ma/wp-content/plugins/goodlayers-core/plugins/fontawesome/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular
+[+]Links: https://fonts.gstatic.com/s/abeezee/v22/esDT31xSG-6AGleN2tCUnJ8DOJKuGPLB.woff2
+[+]Links: https://fonts.gstatic.com/s/abeezee/v22/esDT31xSG-6AGleN2tCUkp8DOJKuGA.woff2
+[+]Links: https://fonts.gstatic.com/s/abeezee/v22/esDR31xSG-6AGleN2tukkJUEGpCeGQ.woff2
+[+]Links: https://fonts.gstatic.com/s/abeezee/v22/esDR31xSG-6AGleN2tWkkJUEGpA.woff2
+[+]Links: wp-block-columns.is
+[+]Links: wp-block-columns.is
+[+]Links: wp-block-post-template.is
+[+]Links: wp-block-post-template.is
+[+]Links: wp-block-post-template.is
+[+]Links: wp-block-post-template.is
+[+]Links: wp-block-columns.is
+[+]Links: wp-block-columns.is
+[+]Links: https://c0.wp.com/c/6.4.2/wp-includes/css/dist/block-library/style.min.css
+[+]Links: https://c0.wp.com/c/6.4.2/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css
+[+]Links: https://c0.wp.com/c/6.4.2/wp-includes/js/mediaelement/wp-mediaelement.min.css
+[+]Links: https://emsi.ma/wp-content/cache/wpo-minify/1694968439/assets/wpo-minify-header-702a3e8b.min.css
+[+]Links: https://c0.wp.com/p/jetpack/11.4.1/css/jetpack.css
+[+]Links: https://c0.wp.com/c/6.4.2/wp-includes/js/jquery/jquery.min.js
+[+]Links: https://c0.wp.com/c/6.4.2/wp-includes/js/jquery/jquery-migrate.min.js
+[+]Links: https://emsi.ma/wp-content/themes/kingster/js/html5.js
+[+]Links: https://emsi.ma/xmlrpc.php?rsd
+[+]Links: https://emsi.ma/
+[+]Links: https://emsi.ma/wp-json/oembed/1.0/embed?url=https%3A%2F%2Femsi.ma%2F
+[+]Links: https://emsi.ma/wp-json/oembed/1.0/embed?url=https%3A%2F%2Femsi.ma%2F&#038;format=xml
+[+]Links: https://emsi.ma
+[+]Links: https://emsi.ma/wp-json/tribe/events/v1/
+[+]Links: https://emsi.ma/wp-admin/admin-ajax.php
+[+]Links: https://emsi.ma/wp-content/uploads/2020/07/cropped-emsi_logo-32x32.png
+[+]Links: https://emsi.ma/wp-content/uploads/2020/07/cropped-emsi_logo-192x192.png
+[+]Links: https://emsi.ma/wp-content/uploads/2020/07/cropped-emsi_logo-180x180.png
+[+]Links: https://emsi.ma/wp-content/uploads/2020/07/cropped-emsi_logo-270x270.png
+[+]Links: e.mh
+[+]Links: e.mh
+[+]Links: e.mh
+[+]Links: e.mh
+[+]Links: e.mh
+[+]Links: e.mh
+[+]Links: https://www.googletagmanager.com/ns.html?id=GTM-WVGGCML
+[+]Links: https://emsi.ma/
+[+]Links: https://emsi.ma/wp-content/uploads/2020/07/logo.png
+[+]Links: https://emsi.ma/mot-du-president/
+[+]Links: https://emsi.ma/decouvrir-lemsi2/
+[+]Links: https://emsi.ma/nos-campus/
+[+]Links: https://emsi.ma/nos-valeurs/
+[+]Links: https://emsi.ma/mot-du-ceo/
+[+]Links: https://emsi.ma/reseau-honoris/
+[+]Links: https://emsi.ma/mission-et-valeurs/
+[+]Links: https://emsi.ma/admissions-post-bac/
+[+]Links: https://emsi.ma/admissions-paralleles/
+[+]Links: https://emsi.ma/frais-et-financement/
+[+]Links: https://emsi.ma/cursus-des-etudes/
+[+]Links: https://emsi.ma/filieres-et-programmes/
+[+]Links: https://emsi.ma/certifications-technologiques/
+[+]Links: https://emsi.ma/partenariats-a-linternational/
+[+]Links: https://emsi.ma/linfrastructure-globale/
+[+]Links: https://emsi.ma/espaces-de-partages/
+[+]Links: https://emsi.ma/nos-recruteurs/
+[+]Links: https://emsi.ma/alumni-2/
+[+]Links: https://emsi.ma/temoignages/
+[+]Links: https://emsi.ma/centre-de-carrieres/
+[+]Links: https://emsi.ma/guide-pratique-de-lemployabilite/
+[+]Links: https://emsi.ma/employabilite/honoris-21st-century-skills-certificate/
+[+]Links: https://emsi.ma/temoignages-entreprises/
+[+]Links: https://emsi.ma/temoignages-des-etudiants/
+[+]Links: https://emsi.ma/strategie-emsi-groupe/
+[+]Links: https://emsi.ma/prix-et-distinctions/
+[+]Links: https://emsi.ma/laboratoires-de-recherches/
+[+]Links: https://emsi.ma/campus-life/
+[+]Links: https://www.facebook.com/emsi.ma/
+[+]Links: https://www.linkedin.com/school/ecole-marocaine-des-sciences-de-l&#039;ing%C3%A9nieur
+[+]Links: https://www.youtube.com/channel/UC5BiOBai2N48ytbCRQWWqJw
+[+]Links: https://instagram.com/groupe.emsi?igshid=7rikpderxqla
+[+]Links: https://emsi.ma/nos-campus/
+[+]Links: https://emsi.ma/event-calendar/
+[+]Links: https://emsi.ma/candidature
+[+]Links: https://emsi.ma/
+[+]Links: https://emsi.ma/wp-content/uploads/2020/07/logo.png
+[+]Links: https://emsi.ma/mot-du-president/
+[+]Links: https://emsi.ma/decouvrir-lemsi2/
+[+]Links: https://emsi.ma/nos-campus/
+[+]Links: https://emsi.ma/nos-valeurs/
+[+]Links: https://emsi.ma/mot-du-ceo/
+[+]Links: https://emsi.ma/reseau-honoris/
+[+]Links: https://emsi.ma/mission-et-valeurs/
+[+]Links: https://emsi.ma/admissions-post-bac/
+[+]Links: https://emsi.ma/admissions-paralleles/
+[+]Links: https://emsi.ma/frais-et-financement/
+[+]Links: https://emsi.ma/cursus-des-etudes/
+[+]Links: https://emsi.ma/filieres-et-programmes/
+[+]Links: https://emsi.ma/certifications-technologiques/
+[+]Links: https://emsi.ma/partenariats-a-linternational/
+[+]Links: https://emsi.ma/linfrastructure-globale/
+[+]Links: https://emsi.ma/espaces-de-partages/
+[+]Links: https://emsi.ma/nos-recruteurs/
+[+]Links: https://emsi.ma/alumni-2/
+[+]Links: https://emsi.ma/temoignages/
+[+]Links: https://emsi.ma/centre-de-carrieres/
+[+]Links: https://emsi.ma/guide-pratique-de-lemployabilite/
+[+]Links: https://emsi.ma/employabilite/honoris-21st-century-skills-certificate/
+[+]Links: https://emsi.ma/temoignages-entreprises/
+[+]Links: https://emsi.ma/temoignages-des-etudiants/
+[+]Links: https://emsi.ma/strategie-emsi-groupe/
+[+]Links: https://emsi.ma/prix-et-distinctions/
+[+]Links: https://emsi.ma/laboratoires-de-recherches/
+[+]Links: https://emsi.ma/campus-life/
+[+]Links: emsi.ma/candidature
+[+]Links: emsi.ma/wp-content/plugins/revslider/public/assets/assets/dummy.png
+[+]Links: emsi.ma/wp-content/uploads/2023/06/21x10-slider-EMSI.jpg
+[+]Links: https://emsi.ma/wp-content/uploads/2020/07/MMPT5309-scaled.jpg
+[+]Links: https://emsi.ma/wp-content/uploads/2018/08/hp2-col-4.jpg
+[+]Links: https://emsi.ma/candidature
+[+]Links: https://emsi.ma/wp-content/uploads/2020/07/2L6A1736-1-scaled-1.png
+[+]Links: https://emsi.ma/wp-content/uploads/2020/07/2L6A1736-1-scaled-1-400x266.png
+[+]Links: https://emsi.ma/wp-content/uploads/2020/07/2L6A1736-1-scaled-1-600x400.png
+[+]Links: https://emsi.ma/wp-content/uploads/2020/07/2L6A1736-1-scaled-1-800x533.png
+[+]Links: https://emsi.ma/wp-content/uploads/2020/07/2L6A1736-1-scaled-1.png
+[+]Links: https://emsi.ma/wp-content/uploads/2020/07/2L6A1933-scaled-1.png
+[+]Links: https://emsi.ma/wp-content/uploads/2020/07/2L6A1933-scaled-1-400x268.png
+[+]Links: https://emsi.ma/wp-content/uploads/2020/07/2L6A1933-scaled-1-600x402.png
+[+]Links: https://emsi.ma/wp-content/uploads/2020/07/2L6A1933-scaled-1-800x536.png
+[+]Links: https://emsi.ma/wp-content/uploads/2020/07/2L6A1933-scaled-1.png
+[+]Links: https://emsi.ma/wp-content/uploads/2020/07/Laboratoire1.jpg
+[+]Links: https://emsi.ma/wp-content/uploads/2020/07/Laboratoire1-400x266.jpg
+[+]Links: https://emsi.ma/wp-content/uploads/2020/07/Laboratoire1-600x400.jpg
+[+]Links: https://emsi.ma/wp-content/uploads/2020/07/Laboratoire1-800x533.jpg
+[+]Links: https://emsi.ma/wp-content/uploads/2020/07/Laboratoire1.jpg
+[+]Links: https://emsi.ma/wp-content/uploads/2020/07/Rea-11.jpg
+[+]Links: https://emsi.ma/wp-content/uploads/2020/07/Rea-11-400x266.jpg
+[+]Links: https://emsi.ma/wp-content/uploads/2020/07/Rea-11-600x400.jpg
+[+]Links: https://emsi.ma/wp-content/uploads/2020/07/Rea-11-800x533.jpg
+[+]Links: https://emsi.ma/wp-content/uploads/2020/07/Rea-11.jpg
+[+]Links: https://emsi.ma/wp-content/uploads/2020/07/MMPT5559-scaled.jpg
+[+]Links: https://emsi.ma/wp-content/uploads/2020/07/MMPT5559-scaled-400x266.jpg
+[+]Links: https://emsi.ma/wp-content/uploads/2020/07/MMPT5559-scaled-600x400.jpg
+[+]Links: https://emsi.ma/wp-content/uploads/2020/07/MMPT5559-scaled-800x533.jpg
+[+]Links: https://emsi.ma/wp-content/uploads/2020/07/MMPT5559-scaled.jpg
+[+]Links: https://emsi.ma/wp-content/uploads/2020/07/3196-scaled.jpg
+[+]Links: https://emsi.ma/wp-content/uploads/2018/08/hp2-col-1.jpg
+[+]Links: https://renseignement-digital.emsi.ma/login/
+[+]Links: https://emsi.ma/wp-content/uploads/2018/08/col-icon-3.png
+[+]Links: https://emsi.ma/wp-content/uploads/2018/08/col-icon-4.png
+[+]Links: https://emsi.ma/wp-content/uploads/2018/08/col-icon-2.png
+[+]Links: https://www.leconomiste.com/flash-infos/l-emsi-primee-tokyo
+[+]Links: https://www.leconomiste.com/flash-infos/tanger-l-anef-sensibilise-aux-risques-des-feux-de-foret
+[+]Links: https://leseco.ma/business/emsi-mohamed-essaidi-notre-relation-avec-les-entreprises-est-une-relation-de-proximite.html
+[+]Links: https://fr.media7.ma/les-technologies-de-lia-et-de-realite-virtuelle-sont-en-train-de-revolutionner-les-modes-denseignement-expert
+[+]Links: https://www.leconomiste.com/flash-infos/salon-des-inventions-d-istanbul-le-maroc-s-illustre
+[+]Links: https://fr.le7tv.ma/2022/10/05/concours-international-dinvention-a-londres-quatre-medailles-pour-le-maroc/
+[+]Links: https://www.infomediaire.net/le-maroc-gagne-le-grand-prix-de-la-meilleure-invention-internationale-a-istanbul/
+[+]Links: https://www.leconomiste.com/flash-infos/l-emsi-s-illustre-au-canada?fbclid=IwAR2A6JPErM6XV4lZlkAcd6JXBsDaJXl1dsvAs1dvmsBwKMjYbLZZ8IdLj-A
+[+]Links: https://www.leconomiste.com/flash-infos/innovation-l-emsi-primee-aux-etats-unis
+[+]Links: https://www.leconomiste.com/flash-infos/l-emsi-et-sothema-scellent-un-partenariat-strategique
+[+]Links: https://telquel.ma/2021/12/09/signature-dune-convention-de-partenariat-entre-axa-services-maroc-et-lecole-marocaine-des-sciences-de-lingenieur-emsi_1746649
+[+]Links: https://www.challenge.ma/cgem-kamal-daissaoui-elu-a-la-tete-de-lenseignement-prive-155119/
+[+]Links: https://www.leconomiste.com/flash-infos/l-emsi-brille-la-silicon-valley
+[+]Links: https://northafricapost.com/41168-morocco-wins-three-gold-medals-at-euroinvent-fair.html
+[+]Links: https://2m.ma/fr/news/lemsi-decroche-2-medailles-dor-et-7-distinctions-au-salon-dinnovation-distanbul-20190923/
+[+]Links: https://www.bladi.net/maroc-salon-international-inventions-geneve,55346.html
+[+]Links: https://fr.hibapress.com/news-48660.html
+[+]Links: https://emsi.ma/les-medias-parlent-de-nous/
+[+]Links: https://emsi.ma/wp-content/uploads/2020/09/media.jpg
+[+]Links: https://www.youtube.com/watch?v=myd51ZQnTZk&#038;t=29s
+[+]Links: https://emsi.ma/wp-content/uploads/2018/08/icon-play.png
+[+]Links: https://emsi.ma/event/journees-portes-ouvertes/
+[+]Links: https://emsi.ma/event/jpo-2/
+[+]Links: https://emsi.ma/wp-content/uploads/2022/06/35.jpg
+[+]Links: https://www.youtube.com/watch?v=42LgnruZWd8
+[+]Links: https://emsi.ma/wp-content/uploads/2018/08/icon-play.png
+[+]Links: https://www.facebook.com/emsi.ma/
+[+]Links: https://www.linkedin.com/school/ecole-marocaine-des-sciences-de-l&#039;ing%C3%A9nieur
+[+]Links: https://www.youtube.com/channel/UC5BiOBai2N48ytbCRQWWqJw
+[+]Links: https://instagram.com/groupe.emsi?igshid=7rikpderxqla
+[+]Links: https://emsi.ma/ingenierie-informatique-et-reseaux/
+[+]Links: https://emsi.ma/ingenierie-financiere-et-audit/
+[+]Links: https://emsi.ma/genie-civil-batiments-et-travaux-publics-btp/
+[+]Links: https://emsi.ma/genie-industriel/
+[+]Links: https://emsi.ma/ingenierie-des-automatismes-et-informatique-industrielle/
+[+]Links: https://emsi.ma/?page_id=11169
+[+]Links: https://emsi.ma/admissions-post-bac/
+[+]Links: https://emsi.ma/admissions-paralleles/
+[+]Links: https://emsi.ma/frais-et-financement/
+[+]Links: https://emsi.ma/nos-campus/
+[+]Links: https://emsi.ma/charte-de-protection-des-donnees-a-caractere-personnel/
+[+]Links: https://fonts.googleapis.com/css?family=Roboto:400&display=swap
+[+]Links: https://emsi.ma/wp-content/cache/wpo-minify/1694968439/assets/wpo-minify-footer-1fb2110e.min.css
+[+]Links: emsi.ma
+[+]Links: emsi.ma
+[+]Links: https://emsi.ma/wp-content/cache/wpo-minify/1694968439/assets/wpo-minify-footer-1a372242.min.js
+[+]Links: https://c0.wp.com/c/6.4.2/wp-includes/js/jquery/ui/effect.min.js
+[+]Links: emsi.ma
+[+]Links: https://emsi.ma/wp-content/cache/wpo-minify/1694968439/assets/wpo-minify-footer-7fe308ed.min.js
+[+]Links: https://stats.wp.com/e-202349.js
+[+]Links: emsi.ma
+[+]Links: https://getwpo.com
+[+]robots.txt is available
+Content:  b'User-agent: *\r\nDisallow: /wp-content/uploads/wpo-plugins-tables-list.json\r\n\r\nSitemap: https://emsi.ma/sitemap.xml\r\nSitemap: https://emsi.ma/sitemap.rss'
+Error in robotstxtAvailable: can only concatenate str (not "bytes") to str
+[+]HTTP headers:  {'Connection': 'Keep-Alive', 'Keep-Alive': 'timeout=5, max=100', 'x-powered-by': 'PHP/8.1.18', 'cache-control': 'no-cache', 'wpo-cache-status': 'cached', 'last-modified': 'Fri, 08 Dec 2023 14:23:11 GMT', 'content-type': 'text/html; charset=UTF-8', 'transfer-encoding': 'chunked', 'content-encoding': 'gzip', 'vary': 'Accept-Encoding', 'date': 'Fri, 08 Dec 2023 22:57:20 GMT', 'server': 'LiteSpeed', 'alt-svc': 'h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"'}
+Error in portScanner: [Errno 11001] getaddrinfo failed
+[+]E-mail:  informations@emsi.ma
+[+]E-mail:  informations@emsi.ma
+Error in IP2Location: [Errno 11001] getaddrinfo failed
+[-]Website hasn't a Mastercard!
+[-]Website hasn't a VISA card!
+[-]Website hasn't a AMEX card!
+[-]Website hasn't a DISCOVER card!
+[-]Sqli isn't available
+[-]XSS isn't available
+Error in commandInjection: Invalid URL ';cat%20/etc/passwd': No scheme supplied. Perhaps you meant https://;cat%20/etc/passwd?
+Error in directoryTraversal: Invalid URL '../../../../../../etc/passwd': No scheme supplied. Perhaps you meant https://../../../../../../etc/passwd?
+Error in fileInclude: Invalid URL '../../../../../../etc/passwd': No scheme supplied. Perhaps you meant https://../../../../../../etc/passwd?
