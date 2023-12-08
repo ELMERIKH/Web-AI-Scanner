@@ -7,10 +7,9 @@ app = Flask(__name__)
 # Define a function to call the web vulnerability scanner
 def web_vulnerability_scan(website_url):
     domain_name = urlparse(website_url).netloc
-    report_file_name = f"{domain_name}_report.txt"
-    scanner_output = subprocess.check_output(['python', 'web-vulnerability-scanner.py', 'full', website_url])
-    with open(report_file_name, 'w') as report_file:
-        report_file.write(scanner_output.decode('utf-8'))
+    report_file_name = f"./report/{domain_name}_report.txt"
+    subprocess.check_output(['python', 'web-vulnerability-scanner.py', 'full', website_url])
+    
     return report_file_name
 
 @app.route('/test_website', methods=['POST'])
