@@ -1,7 +1,6 @@
 https://emsi.ma
+[+]HTTP headers: {'Connection': 'Keep-Alive', 'Keep-Alive': 'timeout=5, max=100', 'x-powered-by': 'PHP/8.1.18', 'cache-control': 'no-cache', 'wpo-cache-status': 'cached', 'last-modified': 'Fri, 08 Dec 2023 14:23:11 GMT', 'content-type': 'text/html; charset=UTF-8', 'transfer-encoding': 'chunked', 'content-encoding': 'gzip', 'vary': 'Accept-Encoding', 'date': 'Sat, 09 Dec 2023 00:37:41 GMT', 'server': 'LiteSpeed', 'alt-svc': 'h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"'}
 [+]Encoded URL: https://emsi.ma/
-[+]Allowed methods: None
-[+]HTTP headers: {'Connection': 'Keep-Alive', 'Keep-Alive': 'timeout=5, max=100', 'x-powered-by': 'PHP/8.1.18', 'cache-control': 'no-cache', 'wpo-cache-status': 'cached', 'last-modified': 'Fri, 08 Dec 2023 14:23:11 GMT', 'content-type': 'text/html; charset=UTF-8', 'transfer-encoding': 'chunked', 'content-encoding': 'gzip', 'vary': 'Accept-Encoding', 'date': 'Sat, 09 Dec 2023 00:20:53 GMT', 'server': 'LiteSpeed', 'alt-svc': 'h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"'}
 [+]E-mail: informations@emsi.ma
 [+]E-mail: informations@emsi.ma
 [-]Website hasn't MasterCard!
@@ -11,7 +10,26 @@ https://emsi.ma
 [-]Sqli isn't available
 [-]no XSS vulnerability
 
-{'Connection': 'Keep-Alive', 'Keep-Alive': 'timeout=5, max=100', 'x-powered-by': 'PHP/8.1.18', 'cache-control': 'no-cache', 'wpo-cache-status': 'cached', 'last-modified': 'Fri, 08 Dec 2023 14:23:11 GMT', 'content-type': 'text/html; charset=UTF-8', 'transfer-encoding': 'chunked', 'content-encoding': 'gzip', 'vary': 'Accept-Encoding', 'date': 'Sat, 09 Dec 2023 00:20:54 GMT', 'server': 'LiteSpeed', 'alt-svc': 'h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"'}
+{'Connection': 'Keep-Alive', 'Keep-Alive': 'timeout=5, max=100', 'x-powered-by': 'PHP/8.1.18', 'cache-control': 'no-cache', 'wpo-cache-status': 'cached', 'last-modified': 'Fri, 08 Dec 2023 14:23:11 GMT', 'content-type': 'text/html; charset=UTF-8', 'transfer-encoding': 'chunked', 'content-encoding': 'gzip', 'vary': 'Accept-Encoding', 'date': 'Sat, 09 Dec 2023 00:37:42 GMT', 'server': 'LiteSpeed', 'alt-svc': 'h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"'}
+
+The IP address of emsi.ma is: 109.70.148.59
+
+Location: 51.5085,-0.1257
+City: London
+Region: England
+Country: GB
+[+]Allowed methods: None
+[+]HTTP headers: {'Connection': 'Keep-Alive', 'Keep-Alive': 'timeout=5, max=100', 'x-powered-by': 'PHP/8.1.18', 'cache-control': 'no-cache', 'wpo-cache-status': 'cached', 'last-modified': 'Fri, 08 Dec 2023 14:23:11 GMT', 'content-type': 'text/html; charset=UTF-8', 'transfer-encoding': 'chunked', 'content-encoding': 'gzip', 'vary': 'Accept-Encoding', 'date': 'Sat, 09 Dec 2023 00:37:45 GMT', 'server': 'LiteSpeed', 'alt-svc': 'h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"'}
+[+]E-mail: informations@emsi.ma
+[+]E-mail: informations@emsi.ma
+[-]Website hasn't MasterCard!
+[-]Website hasn't a VISA card!
+[-]Website hasn't a AMEX card!
+[-]Website hasn't a DISCOVER card!
+[-]Sqli isn't available
+[-]no XSS vulnerability
+
+{'Connection': 'Keep-Alive', 'Keep-Alive': 'timeout=5, max=100', 'x-powered-by': 'PHP/8.1.18', 'cache-control': 'no-cache', 'wpo-cache-status': 'cached', 'last-modified': 'Fri, 08 Dec 2023 14:23:11 GMT', 'content-type': 'text/html; charset=UTF-8', 'transfer-encoding': 'chunked', 'content-encoding': 'gzip', 'vary': 'Accept-Encoding', 'date': 'Sat, 09 Dec 2023 00:37:46 GMT', 'server': 'LiteSpeed', 'alt-svc': 'h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"'}
 
 The IP address of emsi.ma is: 109.70.148.59
 
