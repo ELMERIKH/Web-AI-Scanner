@@ -9,13 +9,11 @@ if len(sys.argv) < 2:
 url = sys.argv[1]
 if url.startswith("https://"):
     url = url.replace("https://", "", 1)
-req = requests.get("https://" + url)
-print("\n" + str(req.headers))
 
 ip = socket.gethostbyname(url)
 print("\nThe IP address of " + url + " is: " + ip + "\n")
 
-req2 = requests.get("https://ipinfo.io/" + ip + "/json") 
+req2 = requests.get("https://ipinfo.io/" + ip + "/json")
 resp = json.loads(req2.text)
 
 print("Location: " + resp["loc"])
