@@ -1,0 +1,20 @@
+https://www.mobafire.com
+[+]Encoded URL: https://www.mobafire.com/
+[+]Allowed methods: None
+[+]HTTP headers: {'Date': 'Sat, 09 Dec 2023 00:21:42 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept-Encoding', 'Set-Cookie': 'PHPSESSID=uj7g120ftpg1b36c3fc53p5vlr; expires=Sat, 09-Dec-2023 01:21:42 GMT; Max-Age=3600; path=/; domain=www.mobafire.com; secure; HttpOnly', 'Expires': 'Sat, 09 Dec 2023 00:21:41 GMT', 'Cache-Control': 'no-cache', 'Pragma': 'no-cache', 'X-Proxy-Cache': 'BYPASS', 'X-Proxy-Skip': '1', 'CF-Cache-Status': 'DYNAMIC', 'Server': 'cloudflare', 'CF-RAY': '832916eb7b4dc718-CMN', 'Content-Encoding': 'gzip'}
+[+]E-mail: partnerships@mobafire.com
+[-]Website hasn't MasterCard!
+[-]Website hasn't a VISA card!
+[-]Website hasn't a AMEX card!
+[-]Website hasn't a DISCOVER card!
+[-]Sqli isn't available
+[-]no XSS vulnerability
+
+{'Date': 'Sat, 09 Dec 2023 00:21:44 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Accept-Encoding', 'Set-Cookie': 'PHPSESSID=srl445n8bstm6ngu66tsjeab4p; expires=Sat, 09-Dec-2023 01:21:43 GMT; Max-Age=3600; path=/; domain=www.mobafire.com; secure; HttpOnly', 'Expires': 'Sat, 09 Dec 2023 00:21:42 GMT', 'Cache-Control': 'no-cache', 'Pragma': 'no-cache', 'X-Proxy-Cache': 'BYPASS', 'X-Proxy-Skip': '1', 'CF-Cache-Status': 'DYNAMIC', 'Server': 'cloudflare', 'CF-RAY': '832916f3db06c71c-CMN', 'Content-Encoding': 'gzip'}
+
+The IP address of www.mobafire.com is: 104.18.13.252
+
+Location: 37.7621,-122.3971
+City: San Francisco
+Region: California
+Country: US

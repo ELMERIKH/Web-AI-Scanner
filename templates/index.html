@@ -1,10 +1,46 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Website Tester</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Vulnerability Scanner</title>
+    <style>
+        body {
+            background: linear-gradient(to bottom, #000000, #1a1a1a);
+            color: gold;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding-top: 100px;
+        }
+        h1 {
+            font-size: 3em;
+            text-shadow: 2px 2px 4px #000000;
+        }
+        form {
+            margin-top: 20px;
+        }
+        label {
+            display: block;
+            margin-bottom: 10px;
+        }
+        input[type="text"] {
+            padding: 10px;
+            border: 2px solid gold;
+            border-radius: 5px;
+            width: 300px;
+        }
+        button[type="submit"] {
+            padding: 10px 20px;
+            background-color: gold;
+            color: #000000;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+    </style>
 </head>
 <body>
-    <h1>Website Tester</h1>
+    <h1>Welcome to the Web Vulnerability Scanner</h1>
     <form action="/test_website" method="post">
         <label for="website_url">Enter Website URL:</label>
         <input type="text" id="website_url" name="website_url" required>

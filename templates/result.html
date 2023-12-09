@@ -1,16 +1,38 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Scan Result</title>
-</head>
-<body>
-    <h1>Scan Result</h1>
-    <div>
-        {% for line in tool_output_lines %}
-            <p>{{ line }}</p>
-        {% endfor %}
-    </div>
-</body>
-</html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Web Vulnerability Scanner</title>
+        <style>
+            body {
+                background: linear-gradient(to bottom, #000000, #1a1a1a);
+                color: gold;
+                font-family: Arial, sans-serif;
+            }
+            .result-container {
+                padding: 20px;
+                margin: 20px;
+                border: 1px solid white;
+            }
+            .result-line {
+                margin-bottom: 10px;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="result-container">
+            <h1>Web Vulnerability Scanner Report</h1>
+            <table>
+                <tr>
+                    <th>Result</th>
+                </tr>
+                {% for line in tool_output_lines %}
+                <tr>
+                    <td>{{ line }}</td>
+                </tr>
+                {% endfor %}
+            </table>
+        </div>
+    </body>
+    </html>

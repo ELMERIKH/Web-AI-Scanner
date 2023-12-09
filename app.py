@@ -18,7 +18,14 @@ def test_website():
 
     # Call the web vulnerability scanner function
     report_file_name = web_vulnerability_scan(website_url)
+    
 
+    scanner_output = subprocess.check_output(['python', 'simple.py', website_url])
+
+# Write the output to the report file
+    with open(report_file_name, 'a') as report_file:
+        report_file.write(scanner_output.decode('utf-8'))
+        
     # Read the content of the report file
     with open(report_file_name, 'r') as report_file:
         tool_output = report_file.read()
