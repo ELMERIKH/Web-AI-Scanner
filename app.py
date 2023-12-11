@@ -2,7 +2,10 @@ import subprocess
 from flask import Flask, render_template, request
 from urllib.parse import urlparse 
 from flask import jsonify
+from flask_cors import CORS
+
 app = Flask(__name__)
+CORS(app, resources={r"/get_report_data": {"origins": "http://localhost:3000"}})
 
 # Define a function to call the web vulnerability scanner
 def web_vulnerability_scan(website_url):
@@ -37,23 +40,14 @@ def test_website():
 @app.route('/')
 def index():
     return render_template('index.html')
-
-@app.route('/get_report_data', methods=['GET', 'POST'])
+@app.route('/get_report_data', methods=['POST'])
 def get_report_data():
-    if request.method == 'POST':
-        website_url = request.form['website_url']
-        report_file_name = web_vulnerability_scan(website_url)
-        with open(report_file_name, 'r') as report_file:
-            tool_output = report_file.readlines()
+    website_url = request.json.get('website_url')
+    report_file_name = web_vulnerability_scan(website_url)
+    with open(report_file_name, 'r') as report_file:
+        tool_output = report_file.readlines()
 
-            return jsonify({'tool_output': tool_output})
-    elif request.method == 'GET':
-        website_url = request.form['website_url']
-        report_file_name = web_vulnerability_scan(website_url)
-        with open(report_file_name, 'r') as report_file:
-            tool_output = report_file.readlines()
+    return jsonify({'tool_output': tool_output})
 
-            return jsonify({'tool_output': tool_output})
-        
 if __name__ == '__main__':
     app.run(debug=True)

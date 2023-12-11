@@ -225,6 +225,6 @@
 [+]Links:https://c0.wp.com/c/6.4.2/wp-includes/js/jquery/ui/effect.min.js
 [+]Links:emsi.ma
 [+]Links:https://emsi.ma/wp-content/cache/wpo-minify/1694968439/assets/wpo-minify-footer-7fe308ed.min.js
-[+]Links:https://stats.wp.com/e-202349.js
+[+]Links:https://stats.wp.com/e-202350.js
 [+]Links:emsi.ma
 [+]Links:https://getwpo.com
