@@ -1,0 +1,9 @@
+https://azerty.nl
+[+]Encoded URL: https://azerty.nl/
+[+]Allowed methods: None
+[+]HTTP headers: {'Connection': 'keep-alive', 'Content-Security-Policy': "frame-ancestors 'self' https://service.ariba.com https://service-2.ariba.com https://certservice.ariba.com https://certservice-2.ariba.com https://s1.ariba.com https://s2.ariba.com https://usertest.sciquest.com https://uitweb.sciquest.com https://neo.sciquest.com https://solutions.sciquest.com https://cloud.punchoutexpress.com https://dev.cloud.punchoutexpress.com https://cloud.pexlocal.com https://cloud.mpexlocal.com;", 'Content-Type': 'text/html; charset=UTF-8', 'Expires': 'Sun, 17 Dec 2023 23:36:15 GMT', 'Pragma': 'cache', 'Traceresponse': '00-17a17416c606b3ad7910cd74afdc2536-f363c3b17662a2d8-01', 'X-Built-With': 'Hyva Themes', 'X-Content-Type-Options': 'nosniff', 'X-Debug-Info': 'eyJyZXRyaWVzIjowfQ==', 'X-Esi': '1', 'X-Platform-Server': 'i-05b73a99dc09826a3, i-05b73a99dc09826a3', 'X-Xss-Protection': '1; mode=block', 'Date': 'Sun, 17 Dec 2023 13:54:07 GMT', 'Age': '51472', 'X-Served-By': 'cache-lhr7335-LHR, cache-mad22039-MAD', 'X-Cache': 'HIT, HIT', 'X-Cache-Hits': '36, 1', 'strict-transport-security': 'max-age=31536000', 'Cache-Control': 'no-store, no-cache, must-revalidate, max-age=0', 'Vary': 'Accept-Encoding,Cookie', 'content-encoding': 'gzip', 'accept-ranges': 'none', 'transfer-encoding': 'chunked'}
+[+]E-mail: klantenservice@azerty.nl
+[+]E-mail: klantenservice@azerty.nl
+[+]E-mail: klantenservice@azerty.nl
+[+]E-mail: klantenservice@azerty.nl
+[+]Cloudfare Not Detected !
