@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 https://emsi.ma
 [+]Encoded URL: https://emsi.ma/
 [+]Allowed methods: None
@@ -20,3 +21,9 @@ Location: 51.5085,-0.1257
 City: London
 Region: England
 Country: GB
+=======
+https://emsi.ma
+[+]Encoded URL: https://emsi.ma/
+[+]Allowed methods: None
+[+]NO Certificate information: 
+>>>>>>> d3672b5066d995ec7938b85a50cb6a4b6899ffde
