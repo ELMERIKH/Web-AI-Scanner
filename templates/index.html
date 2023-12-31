@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Welcome to the Web Vulnerability Scanner</title>
+    <script type="text/javascript" src="three.r124.min.js"></script>
     <style>
         body {
             background: linear-gradient(45deg, #030202, #662043, rgb(102, 84, 23), rgb(54, 39, 5));
@@ -77,6 +78,7 @@
             background-position: 0% 50%;
         }
     }
+    
 
     </style>
     <script>
@@ -86,7 +88,7 @@
     </script>
 </head>
 <body>
-
+    <script type="module" src="main.js"></script>
     <div class="loading-screen" id="loadingScreen">
         <div class="loading-text">Loading...</div>
     </div>
@@ -97,5 +99,6 @@
         <input type="text" id="website_url" name="website_url" required>
         <button type="submit">Test Website</button>
     </form>
+    
 </body>
 </html>
