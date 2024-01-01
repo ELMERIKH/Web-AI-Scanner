@@ -45,7 +45,10 @@ def test_website():
 
     # Split the content by newlines for organized display
     tool_output_lines = tool_output.split('\n')
-    solutions_list = solution_content.strip().split('\n')
+    if solution_content is None:
+        solutions_list = ["API key invalid see AI.Py "]
+    else:
+        solutions_list = solution_content.strip().split('\n')
 
     if request.headers.get('X-Requested-With') == 'XMLHttpRequest':
         # Return the solution content as JSON

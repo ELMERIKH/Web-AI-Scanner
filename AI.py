@@ -11,7 +11,7 @@ class consultantAI:
          
 
         # Initialize the SDK
-        llama = LlamaAPI("LL-pz8hwhHY8l0wNtEJiQf7ezLA4kQNTCYir5HkwMTQf4XCmaUgmOykPgJdLlU6qjAV")
+        llama = LlamaAPI("your api key")
 
         # Build the API request
         api_request_json = {
@@ -27,11 +27,15 @@ class consultantAI:
         }
 
         # Execute the Request
-        response = llama.run(api_request_json)
-        response_data = response.json()
-
-        print(json.dumps(response.json(), indent=2))
-        message_content = response_data['choices'][0]['message']['content']
-
-        return message_content
+        try:
+            response = llama.run(api_request_json)
+            response_data = response.json()
+            message_content = response_data['choices'][0]['message']['content']
+            return message_content
+        except Exception as e:
+            if "api key invalid" in str(e).lower():
+                print("API key invalid")
+            else:
+                print("An error occurred:", e)
+            return None
 
