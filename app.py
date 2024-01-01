@@ -13,6 +13,8 @@ def web_vulnerability_scan(website_url):
     report_file_name = f"./report/{domain_name}_report.txt"
     subprocess.check_output(['python', 'web-vulnerability-scanner.py', 'full', website_url])
     subprocess.check_output(['python', 'wap.py', '-u', website_url ,'-wf', report_file_name])
+    subprocess.check_output(['python', 'virus-total.py', website_url , report_file_name])
+
     
     return report_file_name
 

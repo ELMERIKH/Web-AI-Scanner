@@ -11,7 +11,7 @@ if url.startswith("https://"):
     url = url.replace("https://", "", 1)
 
 ip = socket.gethostbyname(url)
-print("\nThe IP address of " + url + " is: " + ip + "\n")
+print("[+] location scan :\n  The IP address of " + url + " is: " + ip + "\n")
 
 req2 = requests.get("https://ipinfo.io/" + ip + "/json")
 resp = json.loads(req2.text)
