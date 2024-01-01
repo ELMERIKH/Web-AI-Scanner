@@ -18,21 +18,24 @@
             .result-line {
                 margin-bottom: 10px;
             }
+            .blue-text {
+            color: rgb(22, 171, 216);
+        }
         </style>
     </head>
     <body>
         <div class="result-container">
             <h1>Web Vulnerability Scanner Report</h1>
-            <table>
-                <tr>
-                    <th>Result</th>
-                </tr>
+            <h2>Report</h2>
+            <div>
                 {% for line in tool_output_lines %}
-                <tr>
-                    <td>{{ line }}</td>
-                </tr>
+                    {% if '[+]' in line %}
+                        <p class="blue-text">{{ line }}</p>
+                    {% else %}
+                        <p>{{ line }}</p>
+                    {% endif %}
                 {% endfor %}
-            </table>
+            </div>
             <h2>Solutions</h2>
             <ul>
                 {% for solution in solutions %}
