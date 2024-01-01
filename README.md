@@ -1,9 +1,9 @@
-WEB VULNERABILITY SCANNER
-<<<<<<< HEAD
+WEB app and cli tool  VULNERABILITY SCANNER with AI for feedback and solutions 
+ 
+ work in progress
+
+![Alt text](<2024-01-01 04_21_39-#social-media _ Stupid World. - Discord.png>)
 
 
+![Alt text](<2024-01-01 04_20_37-.png>)
 
-
-=======
-work in progress
->>>>>>> 475cb3a1ce6d8141652c46a01a9f74c2e0ccad2e
