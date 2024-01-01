@@ -11,7 +11,7 @@ class consultantAI:
          
 
         # Initialize the SDK
-        llama = LlamaAPI("LL-pz8hwhHY8l0wNtEJiQf7ezLA4kQNTCYir5HkwMTQf4XCmaUgmOykPgJdLlU6qjAV")
+        llama = LlamaAPI("your api key")
 
         # Build the API request
         api_request_json = {
