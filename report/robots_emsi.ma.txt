@@ -1,0 +1,160 @@
+Content: User-agent: *
+Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
+
+Sitemap: https://emsi.ma/sitemap.xml
+Sitemap: https://emsi.ma/sitemap.rss
+Content: User-agent: *
+Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
+
+Sitemap: https://emsi.ma/sitemap.xml
+Sitemap: https://emsi.ma/sitemap.rss
+Content: User-agent: *
+Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
+
+Sitemap: https://emsi.ma/sitemap.xml
+Sitemap: https://emsi.ma/sitemap.rss
+Content: User-agent: *
+Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
+
+Sitemap: https://emsi.ma/sitemap.xml
+Sitemap: https://emsi.ma/sitemap.rss
+Content: User-agent: *
+Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
+
+Sitemap: https://emsi.ma/sitemap.xml
+Sitemap: https://emsi.ma/sitemap.rss
+Content: User-agent: *
+Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
+
+Sitemap: https://emsi.ma/sitemap.xml
+Sitemap: https://emsi.ma/sitemap.rss
+Content: User-agent: *
+Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
+
+Sitemap: https://emsi.ma/sitemap.xml
+Sitemap: https://emsi.ma/sitemap.rss
+Content: User-agent: *
+Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
+
+Sitemap: https://emsi.ma/sitemap.xml
+Sitemap: https://emsi.ma/sitemap.rss
+Content: User-agent: *
+Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
+
+Sitemap: https://emsi.ma/sitemap.xml
+Sitemap: https://emsi.ma/sitemap.rss
+Content: User-agent: *
+Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
+
+Sitemap: https://emsi.ma/sitemap.xml
+Sitemap: https://emsi.ma/sitemap.rss
+Content: User-agent: *
+Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
+
+Sitemap: https://emsi.ma/sitemap.xml
+Sitemap: https://emsi.ma/sitemap.rss
+Content: User-agent: *
+Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
+
+Sitemap: https://emsi.ma/sitemap.xml
+Sitemap: https://emsi.ma/sitemap.rss
+Content: User-agent: *
+Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
+
+Sitemap: https://emsi.ma/sitemap.xml
+Sitemap: https://emsi.ma/sitemap.rss
+Content: User-agent: *
+Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
+
+Sitemap: https://emsi.ma/sitemap.xml
+Sitemap: https://emsi.ma/sitemap.rss
+Content: User-agent: *
+Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
+
+Sitemap: https://emsi.ma/sitemap.xml
+Sitemap: https://emsi.ma/sitemap.rss
+Content: User-agent: *
+Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
+
+Sitemap: https://emsi.ma/sitemap.xml
+Sitemap: https://emsi.ma/sitemap.rss
+Content: User-agent: *
+Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
+
+Sitemap: https://emsi.ma/sitemap.xml
+Sitemap: https://emsi.ma/sitemap.rss
+Content: User-agent: *
+Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
+
+Sitemap: https://emsi.ma/sitemap.xml
+Sitemap: https://emsi.ma/sitemap.rss
+Content: User-agent: *
+Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
+
+Sitemap: https://emsi.ma/sitemap.xml
+Sitemap: https://emsi.ma/sitemap.rss
+Content: User-agent: *
+Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
+
+Sitemap: https://emsi.ma/sitemap.xml
+Sitemap: https://emsi.ma/sitemap.rss
+Content: User-agent: *
+Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
+
+Sitemap: https://emsi.ma/sitemap.xml
+Sitemap: https://emsi.ma/sitemap.rss
+Content: User-agent: *
+Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
+
+Sitemap: https://emsi.ma/sitemap.xml
+Sitemap: https://emsi.ma/sitemap.rss
+Content: User-agent: *
+Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
+
+Sitemap: https://emsi.ma/sitemap.xml
+Sitemap: https://emsi.ma/sitemap.rss
+Content: User-agent: *
+Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
+
+Sitemap: https://emsi.ma/sitemap.xml
+Sitemap: https://emsi.ma/sitemap.rss
+Content: User-agent: *
+Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
+
+Sitemap: https://emsi.ma/sitemap.xml
+Sitemap: https://emsi.ma/sitemap.rss
+Content: User-agent: *
+Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
+
+Sitemap: https://emsi.ma/sitemap.xml
+Sitemap: https://emsi.ma/sitemap.rss
+Content: User-agent: *
+Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
+
+Sitemap: https://emsi.ma/sitemap.xml
+Sitemap: https://emsi.ma/sitemap.rss
+Content: User-agent: *
+Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
+
+Sitemap: https://emsi.ma/sitemap.xml
+Sitemap: https://emsi.ma/sitemap.rss
+Content: User-agent: *
+Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
+
+Sitemap: https://emsi.ma/sitemap.xml
+Sitemap: https://emsi.ma/sitemap.rss
+Content: User-agent: *
+Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
+
+Sitemap: https://emsi.ma/sitemap.xml
+Sitemap: https://emsi.ma/sitemap.rss
+Content: User-agent: *
+Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
+
+Sitemap: https://emsi.ma/sitemap.xml
+Sitemap: https://emsi.ma/sitemap.rss
+Content: User-agent: *
+Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
+
+Sitemap: https://emsi.ma/sitemap.xml
+Sitemap: https://emsi.ma/sitemap.rss
