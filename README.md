@@ -1,6 +1,6 @@
 WEB app and cli tool  VULNERABILITY SCANNER with AI for feedback and solutions 
  
- work in progress
+ work in progress , taking a break from this project ,may update later
 
 setup:
 -------------
