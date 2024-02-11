@@ -7,6 +7,10 @@ setup:
 
 pip install -r requerements.txt
 
+get your apki key : https://www.llama-api.com
+
+and update AI.py with you api key 
+
 python app.py
 
 
