@@ -1,0 +1,9 @@
+setuptools
+python-wappalyzer
+virustotal_python
+colorama
+flask_cors
+flask
+lxml
+fuzzywuzzy
+prettytable
