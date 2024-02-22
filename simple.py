@@ -9,6 +9,8 @@ if len(sys.argv) < 2:
 url = sys.argv[1]
 if url.startswith("https://"):
     url = url.replace("https://", "", 1)
+if url.startswith("http://"):
+    url = url.replace("http://", "", 1)
 
 ip = socket.gethostbyname(url)
 print("[+] location scan :\n  The IP address of " + url + " is: " + ip + "\n")
